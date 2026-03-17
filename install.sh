@@ -71,12 +71,8 @@ draw_box_line() {
 
 draw_box_line_left() {
     local text="$1"
-    local text_len=${#text}
-    # Strip ANSI codes for length calculation
-    local clean_text=$(echo -e "$text" | sed 's/\o033\[[0-9;]*m//g')
-    local clean_len=${#clean_text}
-    local pad=$(( 67 - clean_len ))
-    printf "${CYAN}║${NC} %b%${pad}s${CYAN}║${NC}\n" "$text" ""
+    local pad=60
+    printf "${CYAN}\u2551${NC} %b%${pad}s${CYAN}\u2551${NC}\n" "$text" ""
 }
 
 # ── Banner หลัก ───────────────────────────────────────────
@@ -110,11 +106,14 @@ show_system_info() {
     local mem_used=$(free -m | awk '/Mem:/{print $3}')
     local disk_use=$(df -h / | awk 'NR==2{print $5}' || echo "?")
     local uptime_info=$(uptime -p 2>/dev/null | sed 's/up //' || echo "?")
-    local v2ray_status="ไม่ได้ติดตั้ง"
-    if systemctl is-active --quiet v2ray 2>/dev/null; then
-        v2ray_status="${GREEN}✅ กำลังทำงาน${NC}"
-    elif systemctl is-enabled --quiet v2ray 2>/dev/null; then
-        v2ray_status="${YELLOW}⏸  หยุดทำงาน${NC}"
+    local v2ray_status
+    v2ray_status="ไม่ได้ติดตั้ง"
+    if systemctl is-active --quiet v2ray 2>/dev/null
+    then
+        v2ray_status="${GREEN}Running${NC}"
+    elif systemctl is-enabled --quiet v2ray 2>/dev/null
+    then
+        v2ray_status="${YELLOW}Stopped${NC}"
     fi
 
     echo -e "${CYAN}╔══════════════════════════════════════════════════════════════════════╗${NC}"

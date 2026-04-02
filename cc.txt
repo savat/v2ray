@@ -1,0 +1,627 @@
+# mkingvpnnaw2026 - Ais V2ray_Free 001
+vless://cc4cfdfe-8224-498c-c8d0-a514f94478ee@free1.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree1
+
+# mkingvpnnaw2026 - Ais V2ray_Free 002
+vless://4040ebdb-45f9-418f-ad0e-03b7f9eebced@free2.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree2
+
+# mkingvpnnaw2026 - Ais V2ray_Free 003
+vless://3dddd6d0-4520-4743-962c-af5f194f599c@free3.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree3
+
+# mkingvpnnaw2026 - Ais V2ray_Free 004
+vless://8eede0c2-4878-41af-afea-61764017fb99@free4.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree4
+
+# mkingvpnnaw2026 - Ais V2ray_Free 005
+vless://5fe9582a-cf2d-4cbb-f178-446aa64ac1cc@free5.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree5
+
+# mkingvpnnaw2026 - Ais V2ray_Free 006
+vless://f1e2ead4-0419-445d-ee5e-0d6fd9b46ac9@free6.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree6
+
+# mkingvpnnaw2026 - Ais V2ray_Free 007
+vless://988c550f-9824-453d-c4c7-bc273aa54b1d@free7.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree7
+
+# mkingvpnnaw2026 - Ais V2ray_Free 008
+vless://f39bac9c-9e38-4fa6-83ff-ed1d56b5e050@free8.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree8
+
+# mkingvpnnaw2026 - Ais V2ray Free 009
+vless://8eede0c2-4878-41af-afea-61764017fb99@free4.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree4
+
+# mkingvpnnaw2026 - Ais V2ray Free 010
+vless://5fe9582a-cf2d-4cbb-f178-446aa64ac1cc@free5.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree5
+
+# mkingvpnnaw2026 - True VDO_V2ray_Free 001
+vless://202995f6-3f9e-4609-e179-132711bf5c9f@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free1.movpn.store&type=ws#MoVPN-TrueFree1
+
+# mkingvpnnaw2026 - True VDO_V2ray_Free 002
+vless://f04fe3bc-de82-42a0-ee89-d516bf9af939@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free2.movpn.store&type=ws#MoVPN-TrueFree2
+
+# mkingvpnnaw2026 - True VDO_V2ray_Free 003
+vless://a5864b70-1feb-4636-8821-5f2a681430f7@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free3.movpn.store&type=ws#MoVPN-TrueFree3
+
+# mkingvpnnaw2026 - True VDO_V2ray_Free 004
+vless://884ca443-c0c0-442f-a880-5d17b7c18ab4@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free4.movpn.store&type=ws#MoVPN-TrueFree4
+
+# mkingvpnnaw2026 - True VDO_V2ray_Free 005
+vless://a606ffea-e9a8-4ea0-88cf-4de6125594cd@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free5.movpn.store&type=ws#MoVPN-TrueFree5
+
+# mkingvpnnaw2026 - True VDO_V2ray_Free 006
+vless://fbe77f56-b086-4bbd-a725-b701a04cd238@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free6.movpn.store&type=ws#MoVPN-TrueFree6
+
+# mkingvpnnaw2026 - True VDO_V2ray_Free 007
+vless://d5b19dec-9fe2-4e98-deda-23d4724b213e@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free7.movpn.store&type=ws#MoVPN-TrueFree7
+
+# mkingvpnnaw2026 - True VDO_V2ray_Free 008
+vless://b0e62cf5-77af-4c6f-e601-7e4b036b5e86@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free8.movpn.store&type=ws#MoVPN-TrueFree8
+
+# mkingvpnnaw2026 - True VDO V2ray Free 009
+vless://884ca443-c0c0-442f-a880-5d17b7c18ab4@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free4.movpn.store&type=ws#MoVPN-TrueFree4
+
+# mkingvpnnaw2026 - True VDO V2ray Free 010
+vless://a606ffea-e9a8-4ea0-88cf-4de6125594cd@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free5.movpn.store&type=ws#MoVPN-TrueFree5
+
+# svpn - US 1
+vmess://eyJhZGQiOiJzdnBudXMxLnNrc3Zwbi5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjai1zcGVlZHRlc3QuZWJiLm15IiwiaWQiOiJlYzJmNGFhNC01YzM2LTQ2NjgtOWE0YS04Y2JjM2JmOGUyZDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvbFBiQm9ZcHkvIiwicG9ydCI6IjgwODAiLCJwcyI6InVzIDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# svpn - IN 1
+vmess://eyJhZGQiOiJzdnBuaW4xLnNrc3Zwbi5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjai1zcGVlZHRlc3QuZWJiLm15IiwiaWQiOiJlMjNjZGRlMC1mMTQ5LTQ0NjUtOWZlZi1lOGM0YzI1OWM3MWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQUVtaTNqMU8vIiwicG9ydCI6IjgwODAiLCJwcyI6ImluIDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# svpn - Thailand 1
+vmess://eyJhZGQiOiJzdnBuZnJlZTFmZWIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImM4YTdmMjcwLTgyYmMtNGQxNi1hOTVlLWY2MTgyMGJhZjlhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8waGFBN0hVNi8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# svpn - Thailand 2
+vmess://eyJhZGQiOiJzdnBuZnJlZTJmZWIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImUwMDA0NWY3LTJiMTktNDMxYy1iMjQ1LWQ5ZjBjYWQ3NDkwNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9vN0kzMTBSZy8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# svpn - Thailand 3
+vmess://eyJhZGQiOiJzdnBuZnJlZTNmZWIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjBkNjdjYTI2LTQ0YWYtNGY5Mi1hMmJmLTY1NWQ1YmFjZDA5MCIsIm5ldCI6IndzIiwicGF0aCI6Ii96STFzeWxMdi8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# svpn - Thailand 4
+vmess://eyJhZGQiOiJzdnBuZnJlZTRtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImJkMjcxM2UxLTY0NDAtNGViMC1hNzQ5LTUyOTc0MWNjM2Q4MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9YNkE3Q2hrOS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA0IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# svpn - Thailand 5
+vmess://eyJhZGQiOiJzdnBuZnJlZTVtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjhmNjM0NWZhLWYxNDYtNGYzOS1iY2RjLWI4N2FkOWQyMTI0YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9LUlo1dHdrOC8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA1IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# svpn - Thailand 6
+vmess://eyJhZGQiOiJzdnBuZnJlZTZtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjY3ZTU2OTNiLWI4Y2MtNGQxYi1iZDg0LWMzMGI1MzFmNWNkZiIsIm5ldCI6IndzIiwicGF0aCI6Ii90aDRGTzVuZy8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA2IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# svpn - Thailand 7
+vmess://eyJhZGQiOiJzdnBuZnJlZTdtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImJkNWQwNWFiLWUwYzEtNDFhMS1hNzA5LTYyOWY2ZDY3MDM4ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8xaEx3cXBaby8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA3IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# svpn - Thailand 8
+vmess://eyJhZGQiOiJzdnBuZnJlZThtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImMzNGRlYjg5LWFjN2UtNDA5Yy1hNWZmLTk3M2JjZTM5ZjFjYiIsIm5ldCI6IndzIiwicGF0aCI6Ii91Y0dWcUFqRS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA4IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# svpn - Thailand 9
+vmess://eyJhZGQiOiJzdnBuZnJlZTltYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjM3ODJkNDFjLTVlZWItNGJiMC1hMDI5LTU2MDk0ZWYxMWU0YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9nNnZrajBMOS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA5IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# svpn - Thailand 10
+vmess://eyJhZGQiOiJzdnBuZnJlZTEwbWFyLnNrc3Zwbi5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjai1zcGVlZHRlc3QuZWJiLm15IiwiaWQiOiJjMmE3MDlmNS1jYWEzLTQ5OTctYjc3NS04N2Y0ODEwMjU2N2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYUpJbVBZRUwvIiwicG9ydCI6IjgwODAiLCJwcyI6ImZyZWUgMTAgbWFyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# kindvpn - Ais64kbps V2ray 01 
+vless://0275c280-ef58-48c9-8f50-09751b65539c@kindvpn81.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-oafy0o3q
+
+# kindvpn - Ais64kbps V2ray 02
+vless://d182682a-9998-4581-b7b3-354a9cfafaa8@mk654.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-j6vsiujo
+
+# kindvpn - Ais64kbps V2ray 03
+vless://996d0108-c497-4062-ee89-0cc82dbf2e85@kindvpn6.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#VIP5-z6how3w9
+
+# kindvpn - Ais 64kbps V2ray New (4)
+vless://34057102-c75a-4b32-c36a-ff8542a07b66@kind18.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#xgshhv1x
+
+# kindvpn - Ais 64kbps V2ray New (5)
+vless://43a2b026-7426-48e5-a483-b8ae166eca06@kind19.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#56ceurcz
+
+# kindvpn - Ais 64kbps V2ray New (6)
+vless://d182682a-9998-4581-b7b3-354a9cfafaa8@mk654.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-j6vsiujo
+
+# kindvpn - Ais 64kbps V2ray New (7)
+vless://0275c280-ef58-48c9-8f50-09751b65539c@kindvpn81.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-oafy0o3q
+
+# kindvpn - Ais64kbps V2ray Game (8)
+vless://66bd442e-323e-4035-b51d-6deb7fd685c6@kindvpn5.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#VIP5-el0u1xdx
+
+# kindvpn - Myanmar All Sim Wifi (1)
+vless://a862b9b4-0225-47e7-838a-8e09f0190a1e@45.136.254.82:23131?type=tcp&encryption=none&security=none#Myanmar-sz26turi
+
+# kindvpn - Myanmar All Sim Wifi (2)
+vless://fea66ad9-3671-44f7-a5d0-9514325d29d6@45.136.254.87:53454?type=tcp&encryption=none&security=none#Myanmar-j9mpb6oy
+
+# JHKVPN - Ais play V2ray 01
+vless://e711485e-7060-4c74-abb9-8f5c818e755d@koko.kokovpn.site:8080?path=%2Fray&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-ko33
+
+# JHKVPN - Ais play V2ray 02
+vless://e711485e-7060-4c74-abb9-8f5c818e755d@koko.kokovpn.site:8080?path=%2Fray&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-ko33
+
+# JHKVPN - Ais play V2ray 03
+vless://22dc6938-3272-494c-bd46-99218abee8a8@ko01.kokovpn.site:80?path=%2Fkokovpn&security=&encryption=none&host=www.speedtest.net&type=ws#%F0%9F%94%B5%20AIS%20PLAY-ko33
+
+# JHKVPN - True Vdo V2ray Free 01
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imtva28ua29rb3Zwbi5zaXRlIiwiaWQiOiJjZWM3MjFiMi0zYzE4LTQ2YTgtOTUzZC1jYTU2ZDc5NjQyNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIva29rb3ZwbiIsInBvcnQiOiIyMDg2IiwicHMiOiJUUlVFLWtva28iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# JHKVPN - True Vdo V2ray Free 02
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imtva28ua29rb3Zwbi5zaXRlIiwiaWQiOiJjZWM3MjFiMi0zYzE4LTQ2YTgtOTUzZC1jYTU2ZDc5NjQyNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIva29rb3ZwbiIsInBvcnQiOiIyMDg2IiwicHMiOiJUUlVFLWtva28iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# JHKVPN - True Vdo V2ray Free 03
+vless://a1eb5027-31d9-4e03-9d97-0e22eca29e85@support.zoom.us:8880?path=%2Fphyoevpn&security=none&encryption=none&host=myomin3.yelinhtetnet.online&type=ws#185-193-%F0%9D%90%93%F0%9D%90%91%F0%9D%90%94%F0%9D%90%84-%F0%9D%90%95%F0%9D%90%83%F0%9D%90%8E
+
+# Leo-200777 - TRUE ZooM VDO (10mbps)_01
+vless://84d218f2-7cae-4ef9-bfb2-1034c34903e8@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-01
+
+# Leo-200777 - TRUE ZooM VDO (10mbps)_02
+vless://6db20c63-4c6d-4302-84c2-3ead5c6a1e86@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-02
+
+# Leo-200777 - TRUE ZooM VDO (10mbps)_03
+vless://90582bea-6003-465d-a368-1466d1d2f07e@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-03
+
+# Leo-200777 - TRUE ZooM VDO (10mbps)_04
+vless://313c7113-d77e-40b3-8444-786f53657faf@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-04
+
+# Leo-200777 - TRUE ZooM VDO (10mbps)_05
+vless://31d47767-1e61-4d82-a516-b015fff71563@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-05
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_01
+vless://bc8d186f-69b7-491e-8dd7-3c6219b70a13@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-01
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_02
+vless://c4c5d180-a7fe-449e-aec8-e4974147ee49@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-02
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_03
+vless://2ebb28cb-9bc8-4910-b25d-f04d2297d1a5@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-03
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_04
+vless://237cbf32-0633-4422-97c1-7256943565a3@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-04
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_05
+vless://16db4ee8-ed10-4f05-a93e-ccb39936bc36@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-05
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_06
+vless://39cccabc-d16c-4ae8-9ed3-a8590fc7f54f@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-06
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_07
+vless://6983f5b7-ab69-4ec0-bebf-24589826a1f8@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-07
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_08
+vless://da80f6ad-7453-407f-bed8-097477b271ed@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-08
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_09
+vless://0752a448-8432-4aed-9770-4cfc018dd4ab@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-09
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_10
+vless://461db357-6354-414d-8067-76695c562459@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-10
+
+# PhyoeVPN - --2-01
+vless://ee2ccead-da95-440b-9c56-6b09f79f2161@support.zoom.us:8880?path=%2F&security=none&encryption=none&host=mmt6.kophyoe.online&type=ws#43-97-PhyoeVPN-VDO
+
+# PhyoeVPN - --2-02
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDUua29waHlvZS5vbmxpbmUiLCJpZCI6IjdhNDM3ODRkLTAwYjQtNDg3My1iMmNlLTEwODA2MmY0ZjkzNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IjQzLTE1NC1QaHlvZVZQTi1WRE8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# PhyoeVPN - --2-03
+vless://ce27f7cf-e904-4d97-edea-c8b837cc173c@support.zoom.us:80?path=%2Fvless&security=&encryption=none&host=mmt4.kophyoe.online&type=ws#185-193-PHYOE-VDO
+
+# PhyoeVPN - --2-04
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDEua29waHlvZS5vbmxpbmUiLCJpZCI6IjM4NjBkM2I1LWUwMzMtNGNjNy05MTk4LWY5MzU0N2Y3MjZjMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODg4MCIsInBzIjoiMTAzLTI1MS1QaHlvZVZETyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# PhyoeVPN - --2-05
+vless://d8915b4a-58c4-4770-c0e3-4d4b20902783@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=mmt2.kophyoe.online&type=ws#103-252-TRUEVDO-PHYOE
+
+# PhyoeVPN - --2-06
+vless://71f08ccd-8b1d-45c3-ccd7-e1e71a10e2ab@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=kophyoe.online&type=ws#103-130-PHYOE-VDO
+
+# PhyoeVPN - -2-01
+vless://a60d003b-507a-4da0-8227-3bf5effc44e2@mmt6.kophyoe.online:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#43-97-PhyoeVPN-AIS
+
+# PhyoeVPN - -2-02
+vmess://eyJhZGQiOiJtbXQ1LmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiOTkzMGM0OGQtM2QzMS00ZDEwLThkNmItOTkzNWM4MTAwODg3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiNDMtMTU0LVBoeW9lVlBOLUFJUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# PhyoeVPN - -2-03
+vless://e48ec9ff-b07d-42e0-f59f-66f91f27ef20@mmt4.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#185-193-PHYOE-AIS
+
+# PhyoeVPN - -2-04
+vmess://eyJhZGQiOiJtbXQxLmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjllODJhODE0LWQ0NzAtNGRjOS1hMjNmLTM5ZjEyMGM3YmU0NCIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODg4MCIsInBzIjoiMTAzLTI1MS1QaHlvZUFJUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+# PhyoeVPN - -2-05
+vless://4d91e443-599a-4172-aa15-4fbf7f0c6e1f@mmt2.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#103-252-AIS-PHYOE
+
+# PhyoeVPN - -2-06
+vless://71142719-2696-4607-c63f-06c5c6c6d8ac@kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#103-130-PHYOE-AIS
+
+# PhyoeVPN - ---01
+ss://YWVzLTI1Ni1nY206ZHhtc09wNCtGZWI2SERjRkkxRFl5eDd1SHBGOWZrbGxVM0x5UmFRcERSUT0@mmt6.kophyoe.online:52351?type=tcp#All-SIM-MY-PhyoeVPN-MM
+
+# PhyoeVPN - ---02
+ss://YWVzLTI1Ni1nY206ZHhtc09wNCtGZWI2SERjRkkxRFl5eDd1SHBGOWZrbGxVM0x5UmFRcERSUT0@mmt6.kophyoe.online:52351?type=tcp#All-SIM-MY-PhyoeVPN-MM
+
+# PhyoeVPN - ---03
+ss://YWVzLTI1Ni1nY206ZHhtc09wNCtGZWI2SERjRkkxRFl5eDd1SHBGOWZrbGxVM0x5UmFRcERSUT0@mmt6.kophyoe.online:52351?type=tcp#All-SIM-MY-PhyoeVPN-MM
+
+# PhyoeVPN - ---04
+ss://YWVzLTI1Ni1nY206ZHhtc09wNCtGZWI2SERjRkkxRFl5eDd1SHBGOWZrbGxVM0x5UmFRcERSUT0@mmt6.kophyoe.online:52351?type=tcp#All-SIM-MY-PhyoeVPN-MM
+
+# PhyoeVPN - ---05
+ss://YWVzLTI1Ni1nY206ZHhtc09wNCtGZWI2SERjRkkxRFl5eDd1SHBGOWZrbGxVM0x5UmFRcERSUT0@mmt6.kophyoe.online:52351?type=tcp#All-SIM-MY-PhyoeVPN-MM
+
+# Khinnainglin441 - Ais Play V2ray 01
+vless://e711485e-7060-4c74-abb9-8f5c818e755d@koko.kokovpn.site:8080?path=%2Fray&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-ko33
+
+# Khinnainglin441 - Ais Play V2ray 02
+vless://e711485e-7060-4c74-abb9-8f5c818e755d@koko.kokovpn.site:8080?path=%2Fray&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-ko33
+
+# Khinnainglin441 - Ais Play V2ray 03
+vless://22dc6938-3272-494c-bd46-99218abee8a8@koko2.kokodns.online:80?path=%2Fkokovpn&security=none&encryption=none&host=www.speedtest.net&type=ws#%F0%9F%94%B5%20AIS%20PLAY-ko33
+
+# thnetvpn.netlify -  Ais-Support-Game_FREE-01 
+vless://94e47042-097f-4272-b9aa-e235c8ecd3e4@free1.tarnage.site:8080?path=%2Fzixvpnfree1&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20Free%20O1
+
+# thnetvpn.netlify -  Ais-Support-Game_FREE-02 
+vless://b191afb0-cc13-482f-e491-9096638cf59e@free2.tarnage.site:8080?path=%2Fzixvpnfree&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%2002
+
+# thnetvpn.netlify -  Ais-Support-Game-FREE-03 
+vless://b4c0bd15-c397-4b92-c8a5-51779800bb91@free3.tarnage.site:8080?path=%2Fzxivpnfree03&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%20O3
+
+# thnetvpn.netlify -  Ais-Support-Game-FREE-04
+vless://94e47042-097f-4272-b9aa-e235c8ecd3e4@free1.tarnage.site:8080?path=%2Fzixvpnfree1&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20Free%20O1
+
+# thnetvpn.netlify - Ais-Support-Game-FREE-06 
+vless://b4c0bd15-c397-4b92-c8a5-51779800bb91@free3.tarnage.site:8080?path=%2Fzxivpnfree03&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%20O3
+
+# thnetvpn.netlify -  Ais-Support-Game-FREE-05
+vless://b191afb0-cc13-482f-e491-9096638cf59e@free2.tarnage.site:8080?path=%2Fzixvpnfree&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%2002
+
+# thnetvpn.netlify - TrueVDO Server Free 01
+vless://94e47042-097f-4272-b9aa-e235c8ecd3e4@support.zoom.us:8080?path=%2F&security=none&encryption=none&host=free1.tarnage.site&type=ws#Free-TrueVDO
+
+# thnetvpn.netlify - TrueVDO Server Free 02
+vless://b191afb0-cc13-482f-e491-9096638cf59e@support.zoom.us:8080?path=%2F&security=none&encryption=none&host=free2.zixvpn.de5.net&type=ws#Free-TrueVDO%2002
+
+# thnetvpn.netlify -  MYANMAR Outline ALL SIM WIFI-FREE 01 
+vmess://eyJhZGQiOiIxMDMuMTE0LjIwMy42NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxOGVlMDI2Ny0wYTQ4LTQ1ODUtYmRjMi02NGM1N2JlMDlmMzQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI2MjY3IiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIFZNRVNTLUZSRUUgMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+# thnetvpn.netlify -  MYANMAR Outline ALL SIM WIFI FREE 02
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U1B0ZEVkekFrQnZCS0UzcHN6TDhNYUVVQXJVNm9LRnoxTG9hNjZ6U1BsQT06RlNSY2s5U2ppRVFKRDM0bCs5SGdBVS9ibi9TU0VXRFFLb0NTK2M0YmtkZz0%3D@43.229.135.160:29190#MYANMAR%20Outline%20ALL%20SIM%20WIFI%20FREE%2002
+
+# thnetvpn.netlify -  MYANMAR Outline ALL SIM WIFI FREE 03
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OXYxQWdjZUcyUGtldXh3M2ZjZ3ZORVFIZHFha0FqWjhnT21VcTdGMlluQT06UXovT3BGd0RTR1FyK3krTGpjazVZM09yZXlpam5hTTd2d1ROanRxWUNFZz0%3D@165.101.64.179:56047#MYANMAR%20Outline%20ALL%20SIM%20WIFI%20FREE%2003
+
+# thnetvpn.netlify -  MYANMAR Outline ALL SIM WIFI FREE 04 
+vmess://eyJhZGQiOiIxMDMuMTE0LjIwMy42NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxOGVlMDI2Ny0wYTQ4LTQ1ODUtYmRjMi02NGM1N2JlMDlmMzQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI2MjY3IiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIFZNRVNTLUZSRUUgMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+# thnetvpn.netlify -  MYANMAR Outline ALL SIM WIFI FREE 05 
+vmess://eyJhZGQiOiI0My4yMjkuMTM1LjE2MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1ZTNjZDcwNS0zOWJmLTRmYjMtOTMyOS02NWMwODlkZjliYmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzNjAyIiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIHZtc3NzIEZSRUUgMDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+# thnetvpn.netlify -  MYANMAR Outline ALL SIM WIFI FREE 06 
+vmess://eyJhZGQiOiIxNjUuMTAxLjY0LjE3OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmNjMxNzZhNC1iY2M5LTQ2ZDItZWI2YS00M2I3YzcyYWVlNzkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI0MTY1IiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIFZNRVNTLUZSRUUgMDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+# 2188 - 🎮 Ais-Support-Game-FREE-01 💯
+vless://94e47042-097f-4272-b9aa-e235c8ecd3e4@free1.tarnage.site:8080?path=%2Fzixvpnfree1&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20Free%20O1
+
+# 2188 - 🎮 Ais-Support-Game-FREE-02 💯
+vless://b191afb0-cc13-482f-e491-9096638cf59e@free2.tarnage.site:8080?path=%2Fzixvpnfree&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%2002
+
+# 2188 - 🎮 Ais-Support-Game-FREE-03 💯
+vless://b191afb0-cc13-482f-e491-9096638cf59e@free2.tarnage.site:8080?path=%2Fzixvpnfree&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%2002
+
+# 2188 - 🎮 Ais-Support-Game-FREE-04 💯
+vless://b4c0bd15-c397-4b92-c8a5-51779800bb91@free3.tarnage.site:8080?path=%2Fzxivpnfree03&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%20O3
+
+# 2188 - 🎮 Ais-Support-Game_FREE-05💯
+vless://b4c0bd15-c397-4b92-c8a5-51779800bb91@free3.tarnage.site:8080?path=%2Fzxivpnfree03&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%20O3
+
+# 2188 - TrueVDO Server Free 01
+vless://94e47042-097f-4272-b9aa-e235c8ecd3e4@support.zoom.us:8080?path=%2F&security=none&encryption=none&host=free1.tarnage.site&type=ws#Free-TrueVDO
+
+# 2188 - TrueVDO Server Free 02
+vless://b191afb0-cc13-482f-e491-9096638cf59e@support.zoom.us:8080?path=%2F&security=none&encryption=none&host=free2.zixvpn.de5.net&type=ws#Free-TrueVDO%2002
+
+# 2188 - 🎮 Ais GAME Premium 01 💯
+vless://14d50ff9-43e0-4c39-876b-786baa5ee6b7@vip1.tarnage.site:8080?path=%2Fzixvip&security=&encryption=none&host=www.speedtest.net&type=ws#Vip1-ko%20khant
+
+# 2188 - TrueVDO Premium 01
+vless://14d50ff9-43e0-4c39-876b-786baa5ee6b7@support.zoom.us:8080?path=%2Fzixvip&security=none&encryption=none&host=vip1.tarnage.site&type=ws#Vip1-VDO
+
+# 2188 - MYANMAR Outline ALL SIM WIFI-FREE 01
+vmess://eyJhZGQiOiIxMDMuMTE0LjIwMy42NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxOGVlMDI2Ny0wYTQ4LTQ1ODUtYmRjMi02NGM1N2JlMDlmMzQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI2MjY3IiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIFZNRVNTLUZSRUUgMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+# 2188 - MYANMAR Outline ALL SIM WIFI-FREE 02
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U1B0ZEVkekFrQnZCS0UzcHN6TDhNYUVVQXJVNm9LRnoxTG9hNjZ6U1BsQT06RlNSY2s5U2ppRVFKRDM0bCs5SGdBVS9ibi9TU0VXRFFLb0NTK2M0YmtkZz0%3D@43.229.135.160:29190#MYANMAR%20Outline%20ALL%20SIM%20WIFI%20FREE%2002
+
+# 2188 - MYANMAR Outline ALL SIM WIFI FREE 03
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OXYxQWdjZUcyUGtldXh3M2ZjZ3ZORVFIZHFha0FqWjhnT21VcTdGMlluQT06UXovT3BGd0RTR1FyK3krTGpjazVZM09yZXlpam5hTTd2d1ROanRxWUNFZz0%3D@165.101.64.179:56047#MYANMAR%20Outline%20ALL%20SIM%20WIFI%20FREE%2003
+
+# 2188 - MYANMAR Outline ALL SIM WIFI FREE 04
+vmess://eyJhZGQiOiIxMDMuMTE0LjIwMy42NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxOGVlMDI2Ny0wYTQ4LTQ1ODUtYmRjMi02NGM1N2JlMDlmMzQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI2MjY3IiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIFZNRVNTLUZSRUUgMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+# 2188 - MYANMAR Outline ALL SIM WIFI FREE 06
+vmess://eyJhZGQiOiIxNjUuMTAxLjY0LjE3OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmNjMxNzZhNC1iY2M5LTQ2ZDItZWI2YS00M2I3YzcyYWVlNzkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI0MTY1IiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIFZNRVNTLUZSRUUgMDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+# 2188 - MYANMAR Outline ALL SIM WIFI FREE 05
+vmess://eyJhZGQiOiI0My4yMjkuMTM1LjE2MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1ZTNjZDcwNS0zOWJmLTRmYjMtOTMyOS02NWMwODlkZjliYmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzNjAyIiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIHZtc3NzIEZSRUUgMDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+# sansoe12345 - US 1
+vmess://eyJhZGQiOiJzdnBudXMxLnNrc3Zwbi5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjai1zcGVlZHRlc3QuZWJiLm15IiwiaWQiOiJlYzJmNGFhNC01YzM2LTQ2NjgtOWE0YS04Y2JjM2JmOGUyZDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvbFBiQm9ZcHkvIiwicG9ydCI6IjgwODAiLCJwcyI6InVzIDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# sansoe12345 - IN 1
+vmess://eyJhZGQiOiJzdnBuaW4xLnNrc3Zwbi5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjai1zcGVlZHRlc3QuZWJiLm15IiwiaWQiOiJlMjNjZGRlMC1mMTQ5LTQ0NjUtOWZlZi1lOGM0YzI1OWM3MWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQUVtaTNqMU8vIiwicG9ydCI6IjgwODAiLCJwcyI6ImluIDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# sansoe12345 - Thailand 1
+vmess://eyJhZGQiOiJzdnBuZnJlZTFmZWIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImM4YTdmMjcwLTgyYmMtNGQxNi1hOTVlLWY2MTgyMGJhZjlhYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8waGFBN0hVNi8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# sansoe12345 - Thailand 2
+vmess://eyJhZGQiOiJzdnBuZnJlZTJmZWIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImUwMDA0NWY3LTJiMTktNDMxYy1iMjQ1LWQ5ZjBjYWQ3NDkwNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9vN0kzMTBSZy8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# sansoe12345 - Thailand 3
+vmess://eyJhZGQiOiJzdnBuZnJlZTNmZWIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjBkNjdjYTI2LTQ0YWYtNGY5Mi1hMmJmLTY1NWQ1YmFjZDA5MCIsIm5ldCI6IndzIiwicGF0aCI6Ii96STFzeWxMdi8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# sansoe12345 - Thailand 4
+vmess://eyJhZGQiOiJzdnBuZnJlZTRtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImJkMjcxM2UxLTY0NDAtNGViMC1hNzQ5LTUyOTc0MWNjM2Q4MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9YNkE3Q2hrOS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA0IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# sansoe12345 - Thailand 5
+vmess://eyJhZGQiOiJzdnBuZnJlZTVtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjhmNjM0NWZhLWYxNDYtNGYzOS1iY2RjLWI4N2FkOWQyMTI0YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9LUlo1dHdrOC8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA1IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# sansoe12345 - Thailand 6
+vmess://eyJhZGQiOiJzdnBuZnJlZTZtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjY3ZTU2OTNiLWI4Y2MtNGQxYi1iZDg0LWMzMGI1MzFmNWNkZiIsIm5ldCI6IndzIiwicGF0aCI6Ii90aDRGTzVuZy8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA2IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# sansoe12345 - Thailand 7
+vmess://eyJhZGQiOiJzdnBuZnJlZTdtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImJkNWQwNWFiLWUwYzEtNDFhMS1hNzA5LTYyOWY2ZDY3MDM4ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8xaEx3cXBaby8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA3IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# sansoe12345 - Thailand 8
+vmess://eyJhZGQiOiJzdnBuZnJlZThtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImMzNGRlYjg5LWFjN2UtNDA5Yy1hNWZmLTk3M2JjZTM5ZjFjYiIsIm5ldCI6IndzIiwicGF0aCI6Ii91Y0dWcUFqRS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA4IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# sansoe12345 - Thailand 9
+vmess://eyJhZGQiOiJzdnBuZnJlZTltYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjM3ODJkNDFjLTVlZWItNGJiMC1hMDI5LTU2MDk0ZWYxMWU0YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9nNnZrajBMOS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA5IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# sansoe12345 - Thailand 10
+vmess://eyJhZGQiOiJzdnBuZnJlZTEwbWFyLnNrc3Zwbi5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjai1zcGVlZHRlc3QuZWJiLm15IiwiaWQiOiJjMmE3MDlmNS1jYWEzLTQ5OTctYjc3NS04N2Y0ODEwMjU2N2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYUpJbVBZRUwvIiwicG9ydCI6IjgwODAiLCJwcyI6ImZyZWUgMTAgbWFyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# hwvpnprofreevip2026 - Server Ais Free 01
+vless://4a559b18-18a4-4b09-e1f2-b3ea2ee84770@141.98.18.12:8080?type=ws&encryption=none&path=%2F&host=&security=none#Free
+
+# hwvpnprofreevip2026 - Server Ais V2Ray Free 02
+vless://4a559b18-18a4-4b09-e1f2-b3ea2ee84770@141.98.18.12:8080?type=ws&encryption=none&path=%2F&host=&security=none#Free
+
+# hwvpnprofreevip2026 - Server Ais Premium 01
+vmess://eyJhZGQiOiJ2aXAwNC5odG9vd2FyLnNpdGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5zcGVlZHRlc3QubmV0IiwiaWQiOiI0N2MxOTUyZS03NTYzLTQxYzQtYTM3MS02ZDYxZDhjYmU3OWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwODAiLCJwcyI6IkFpcyBWSVAtdGk2bW9mcWgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# hwvpnprofreevip2026 - Server Ais Premium 02
+vless://28fc0675-2643-4524-e604-80c33634010b@support.zoom.us:8080?path=%2F&security=none&encryption=none&host=udp02.hwvpn.site&type=ws#v203-hkyviskx
+
+# PhyoeVPN - --2-01
+vless://ee2ccead-da95-440b-9c56-6b09f79f2161@support.zoom.us:8880?path=%2F&security=none&encryption=none&host=mmt6.kophyoe.online&type=ws#43-97-PhyoeVPN-VDO
+
+# PhyoeVPN - --2-02
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDUua29waHlvZS5vbmxpbmUiLCJpZCI6IjdhNDM3ODRkLTAwYjQtNDg3My1iMmNlLTEwODA2MmY0ZjkzNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IjQzLTE1NC1QaHlvZVZQTi1WRE8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# PhyoeVPN - --2-03
+vless://ce27f7cf-e904-4d97-edea-c8b837cc173c@support.zoom.us:80?path=%2Fvless&security=&encryption=none&host=mmt4.kophyoe.online&type=ws#185-193-PHYOE-VDO
+
+# PhyoeVPN - --2-04
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDEua29waHlvZS5vbmxpbmUiLCJpZCI6IjM4NjBkM2I1LWUwMzMtNGNjNy05MTk4LWY5MzU0N2Y3MjZjMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODg4MCIsInBzIjoiMTAzLTI1MS1QaHlvZVZETyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# PhyoeVPN - --2-05
+vless://d8915b4a-58c4-4770-c0e3-4d4b20902783@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=mmt2.kophyoe.online&type=ws#103-252-TRUEVDO-PHYOE
+
+# PhyoeVPN - --2-06
+vless://71f08ccd-8b1d-45c3-ccd7-e1e71a10e2ab@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=kophyoe.online&type=ws#103-130-PHYOE-VDO
+
+# PhyoeVPN - -2-01
+vless://a60d003b-507a-4da0-8227-3bf5effc44e2@mmt6.kophyoe.online:8880?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#43-97-PhyoeVPN-AIS
+
+# PhyoeVPN - -2-02
+vmess://eyJhZGQiOiJtbXQ1LmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiOTkzMGM0OGQtM2QzMS00ZDEwLThkNmItOTkzNWM4MTAwODg3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiNDMtMTU0LVBoeW9lVlBOLUFJUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# PhyoeVPN - -2-03
+vless://e48ec9ff-b07d-42e0-f59f-66f91f27ef20@mmt4.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#185-193-PHYOE-AIS
+
+# PhyoeVPN - -2-04
+vmess://eyJhZGQiOiJtbXQxLmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjllODJhODE0LWQ0NzAtNGRjOS1hMjNmLTM5ZjEyMGM3YmU0NCIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODg4MCIsInBzIjoiMTAzLTI1MS1QaHlvZUFJUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+# PhyoeVPN - -2-05
+vless://4d91e443-599a-4172-aa15-4fbf7f0c6e1f@mmt2.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#103-252-AIS-PHYOE
+
+# PhyoeVPN - -2-06
+vless://71142719-2696-4607-c63f-06c5c6c6d8ac@kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#103-130-PHYOE-AIS
+
+# PhyoeVPN - ---01
+ss://YWVzLTI1Ni1nY206ZHhtc09wNCtGZWI2SERjRkkxRFl5eDd1SHBGOWZrbGxVM0x5UmFRcERSUT0@mmt6.kophyoe.online:52351?type=tcp#All-SIM-MY-PhyoeVPN-MM
+
+# PhyoeVPN - ---02
+ss://YWVzLTI1Ni1nY206ZHhtc09wNCtGZWI2SERjRkkxRFl5eDd1SHBGOWZrbGxVM0x5UmFRcERSUT0@mmt6.kophyoe.online:52351?type=tcp#All-SIM-MY-PhyoeVPN-MM
+
+# PhyoeVPN - ---03
+ss://YWVzLTI1Ni1nY206ZHhtc09wNCtGZWI2SERjRkkxRFl5eDd1SHBGOWZrbGxVM0x5UmFRcERSUT0@mmt6.kophyoe.online:52351?type=tcp#All-SIM-MY-PhyoeVPN-MM
+
+# PhyoeVPN - ---04
+ss://YWVzLTI1Ni1nY206ZHhtc09wNCtGZWI2SERjRkkxRFl5eDd1SHBGOWZrbGxVM0x5UmFRcERSUT0@mmt6.kophyoe.online:52351?type=tcp#All-SIM-MY-PhyoeVPN-MM
+
+# PhyoeVPN - ---05
+ss://YWVzLTI1Ni1nY206ZHhtc09wNCtGZWI2SERjRkkxRFl5eDd1SHBGOWZrbGxVM0x5UmFRcERSUT0@mmt6.kophyoe.online:52351?type=tcp#All-SIM-MY-PhyoeVPN-MM
+
+# 123 - TH1-AIS-64K-เล่นเกมส์-TCP
+vless://koala@th4.kolal.my.id:8080?path=%2FKolal&security=none&encryption=none&host=www.speedtest.net&type=ws#TH-VPN
+
+# 123 - TH2-AIS-64K-เล่นเกมส์-TCP
+vless://koala@th4.kolal.my.id:8080?path=%2FKolal&security=none&encryption=none&host=www.speedtest.net&type=ws#TH-VPN
+
+# 123 - TH3-AIS-64K-เล่นเกมส์-TCP
+vless://koala@th4.kolal.my.id:8080?path=%2FKolal&security=none&encryption=none&host=www.speedtest.net&type=ws#TH-VPN
+
+# 123 - TH1-TRUE-ZOOM-เล่นเกมส์
+vless://koala@gomarketplacefront-cf.zoom.us:8080?path=%2FKolal&security=none&encryption=none&host=th4.kolal.my.id&type=ws#TH-VPN
+
+# 123 - TH2-TRUE-ZOOM-เล่นเกมส์
+vless://koala@gomarketplacefront-cf.zoom.us:8080?path=%2FKolal&security=none&encryption=none&host=th4.kolal.my.id&type=ws#TH-VPN
+
+# 123 - TH3-TRUE-ZOOM-เล่นเกมส์
+vless://koala@gomarketplacefront-cf.zoom.us:8080?path=%2FKolal&security=none&encryption=none&host=th4.kolal.my.id&type=ws#TH-VPN
+
+# Network-Data-VPN - Premium 2 V2ray TrueID
+vless://6e9490a7-7526-4083-9d29-c79c2aa0ef23@13.250.116.151:80?type=ws&encryption=none&path=%2F&host=www.speedtest.net&security=none#Ais-yp1t2umv
+
+# Network-Data-VPN - Premium 2 V2ray AisPlay
+vless://defa89e4-718e-4aff-80df-479d3beec202@tmvh.co.th1.bbm2gth.shop:80?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#Supervip-Ais-bbvpn
+
+# Network-Data-VPN - Premium 3 V2ray TrueID
+vless://e711485e-7060-4c74-abb9-8f5c818e755d@koko.kokovpn.site:8080?path=%2Fray&security=&encryption=none&host=www.speedtest.net&type=ws#AIS-ko33
+
+# Network-Data-VPN - Premium 3 V2ray AisPlay
+vless://f172f802-bcee-43f5-9252-e265b19c124b@tmvh.co.th3.bbm2gth.shop:80?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#SupremeVIP-Ais-bbvpn
+
+# Network-Data-VPN - Premium 4 V2ray AisPlay
+vless://b05d4f9b-e832-403b-b908-b6f610bb2d94@tmvh.co.supreme.bbm2gth.shop:80?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#Supreme%20Vip2%20-Ais-bbvpn
+
+# Bamar Vpn - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-01
+vless://f3bd581b-6aa3-4408-c72e-fed59ba08334@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=kophyoe.online&type=ws#103-130-KAKHANGA-VDO
+
+# Bamar Vpn - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-02
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDEua29waHlvZS5vbmxpbmUiLCJpZCI6IjA1ZDMwNDYzLTdjMmEtNDI4Ni1kODU0LTU5NjJlMzkzZWEzZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODg4MCIsInBzIjoiMTAzLTI1MS1LYUtoYVZETyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# Bamar Vpn - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-03
+vless://3905246b-605d-40a8-f517-3302f2b4caf8@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=mmt2.kophyoe.online&type=ws#103-252-VDO-Bamar
+
+# Bamar Vpn - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-04
+vless://cba60c38-7d31-455a-d090-7d95e03270b3@support.zoom.us:80?path=%2Fvless&security=&encryption=none&host=mmt4.kophyoe.online&type=ws#185-193-KAKHANGA-VDO
+
+# Bamar Vpn - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-05
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDUua29waHlvZS5vbmxpbmUiLCJpZCI6IjljMGE2ODU0LTUwMzAtNDcxNi1iNGE1LTZiNTExZjI4ODAyZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IjQzLTE1NC1LYUtoYU5nYVZQTi1WRE8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# Bamar Vpn - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-06
+vless://5c918aa6-f64b-4cc4-8dcb-2af8b76a2a43@support.zoom.us:8880?path=%2F&security=none&encryption=none&host=mmt6.kophyoe.online&type=ws#43-97-KaKhaNgaVPN-VDO
+
+# Bamar Vpn - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-01
+vless://f3bd581b-6aa3-4408-c72e-fed59ba08334@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=kophyoe.online&type=ws#103-130-KAKHANGA-VDO
+
+# Bamar Vpn - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-02
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDEua29waHlvZS5vbmxpbmUiLCJpZCI6IjA1ZDMwNDYzLTdjMmEtNDI4Ni1kODU0LTU5NjJlMzkzZWEzZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODg4MCIsInBzIjoiMTAzLTI1MS1LYUtoYVZETyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# Bamar Vpn - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-03
+vless://3905246b-605d-40a8-f517-3302f2b4caf8@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=mmt2.kophyoe.online&type=ws#103-252-VDO-Bamar
+
+# Bamar Vpn - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-04
+vless://cba60c38-7d31-455a-d090-7d95e03270b3@support.zoom.us:80?path=%2Fvless&security=&encryption=none&host=mmt4.kophyoe.online&type=ws#185-193-KAKHANGA-VDO
+
+# Bamar Vpn - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-05
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDUua29waHlvZS5vbmxpbmUiLCJpZCI6IjljMGE2ODU0LTUwMzAtNDcxNi1iNGE1LTZiNTExZjI4ODAyZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IjQzLTE1NC1LYUtoYU5nYVZQTi1WRE8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# Bamar Vpn - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-06
+vless://5c918aa6-f64b-4cc4-8dcb-2af8b76a2a43@support.zoom.us:8880?path=%2F&security=none&encryption=none&host=mmt6.kophyoe.online&type=ws#43-97-KaKhaNgaVPN-VDO
+
+# Bamar Vpn - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-01
+vless://47649ea0-b2a4-43ee-99cd-51f70f60f88b@mmt6.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#43-97-KaKhaNga-Ais
+
+# Bamar Vpn - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-02
+vmess://eyJhZGQiOiJtbXQxLmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiMmVjYTJlNzMtNjlkZS00ZmE4LWU4MzAtZTM4ZWZhNmNkMmM1IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL01NVFZQTiIsInBvcnQiOiI4ODgwIiwicHMiOiIxMDMtMjUxLTg4ODAtS2FLaGFBSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# Bamar Vpn - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-03
+vmess://eyJhZGQiOiJiYW1hci5rb3BoeW9lLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImMxMzYyYzVjLTQ2ZWItNDQ2Zi1hZjBlLTMyYWIwY2U0OTI1ZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODAiLCJwcyI6IjEwMy0xMzAtODAtQmFtYXJWcG4tQWlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# Bamar Vpn - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-04
+vmess://eyJhZGQiOiJtbXQ1LmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiZTE2NWQ2MmItNDk1Zi00YmUyLTk0MjctZjE1MzhiODZkODZjIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiNDMtMTU0LUthS2hhTmdhVnBuLUFJUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# Bamar Vpn - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-05
+vless://e258ac64-0784-49b9-cb49-f2d6e7f364a5@mmt4.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#185-193-80-KAKHANGA-AIS
+
+# Bamar Vpn - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-06
+vless://3aed7115-dbfc-47e2-e20d-95acdd8341dc@mmt1.kophyoe.online:80?path=%2FMMTVPN&security=none&encryption=none&host=www.speedtest.net&type=ws#103-251-80-Bamar-AIS
+
+# Bamar Vpn - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-01
+vless://3aed7115-dbfc-47e2-e20d-95acdd8341dc@mmt1.kophyoe.online:80?path=%2FMMTVPN&security=none&encryption=none&host=www.speedtest.net&type=ws#103-251-80-Bamar-AIS
+
+# Bamar Vpn - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-02
+vless://e258ac64-0784-49b9-cb49-f2d6e7f364a5@mmt4.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#185-193-80-KAKHANGA-AIS
+
+# Bamar Vpn - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-03
+vmess://eyJhZGQiOiJtbXQ1LmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiZTE2NWQ2MmItNDk1Zi00YmUyLTk0MjctZjE1MzhiODZkODZjIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiNDMtMTU0LUthS2hhTmdhVnBuLUFJUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# Bamar Vpn - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-04
+vmess://eyJhZGQiOiJiYW1hci5rb3BoeW9lLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImMxMzYyYzVjLTQ2ZWItNDQ2Zi1hZjBlLTMyYWIwY2U0OTI1ZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODAiLCJwcyI6IjEwMy0xMzAtODAtQmFtYXJWcG4tQWlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# Bamar Vpn - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-05
+vmess://eyJhZGQiOiJtbXQxLmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiMmVjYTJlNzMtNjlkZS00ZmE4LWU4MzAtZTM4ZWZhNmNkMmM1IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL01NVFZQTiIsInBvcnQiOiI4ODgwIiwicHMiOiIxMDMtMjUxLTg4ODAtS2FLaGFBSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# Bamar Vpn - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-06
+vless://47649ea0-b2a4-43ee-99cd-51f70f60f88b@mmt6.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#43-97-KaKhaNga-Ais
+
+# Bamar Vpn - 𝑴𝒚𝒂𝒏𝒎𝒂𝒓 𝑨𝒍𝒍 𝑺𝒊𝒎 𝑶𝒖𝒕𝒍𝒊𝒏𝒆 𝑭𝒓𝒆𝒆-01
+ss://YWVzLTI1Ni1nY206cVFPNVI3bzNNS2hrL05HMWlJQ3BTRGRIVkxGVDFLcUNkL1NEeFVEdkZEVT0@mmt6.kophyoe.online:52351?type=tcp#All-SIM-MY-%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF%20%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1
+
+# Bamar Vpn - 𝑴𝒚𝒂𝒏𝒎𝒂𝒓 𝑨𝒍𝒍 𝑺𝒊𝒎 𝑶𝒖𝒕𝒍𝒊𝒏𝒆 𝑭𝒓𝒆𝒆-02
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bGpHcU56QlZGc3h6bDNDcWszSUF5ZzIvTytBd3hXUlkxSTZHN2JCZXpCUT06UndhOXA1cmtyYjRDR201UnBzSWVOaW42YzJPT0RZZWhwd1Z4MHhLREdTZz0@mmt5.kophyoe.online:8443?type=tcp#All-Sim-%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF%20%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1
+
+# Bamar Vpn - 𝑴𝒚𝒂𝒏𝒎𝒂𝒓 𝑨𝒍𝒍 𝑺𝒊𝒎 𝑶𝒖𝒕𝒍𝒊𝒏𝒆 𝑭𝒓𝒆𝒆-03
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NjFZL2RqTzZ1aHBwSDMyT1BIS2VJd0lpYmhnVFFpRHRKYVZiRExwbDUwUT06YmwxUERCVlZFc3BFY0IrZjIybFMvUUE0WkM4bEN5bTR4a2ZIb1l6elBiaz0@185.78.167.193:40449?type=tcp#%F0%9D%91%A8%F0%9D%92%8D%F0%9D%92%8D%20%F0%9D%91%BA%F0%9D%92%8A%F0%9D%92%8E%20%F0%9D%91%B6%F0%9D%92%96%F0%9D%92%95%F0%9D%92%8D%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%86%20%F0%9D%91%B2%F0%9D%92%86%F0%9D%92%9A-%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF%20%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1
+
+# Bamar Vpn - 𝑴𝒚𝒂𝒏𝒎𝒂𝒓 𝑨𝒍𝒍 𝑺𝒊𝒎 𝑶𝒖𝒕𝒍𝒊𝒏𝒆 𝑭𝒓𝒆𝒆-04
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NjFZL2RqTzZ1aHBwSDMyT1BIS2VJd0lpYmhnVFFpRHRKYVZiRExwbDUwUT06YmwxUERCVlZFc3BFY0IrZjIybFMvUUE0WkM4bEN5bTR4a2ZIb1l6elBiaz0@185.78.167.193:40449?type=tcp#%F0%9D%91%A8%F0%9D%92%8D%F0%9D%92%8D%20%F0%9D%91%BA%F0%9D%92%8A%F0%9D%92%8E%20%F0%9D%91%B6%F0%9D%92%96%F0%9D%92%95%F0%9D%92%8D%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%86%20%F0%9D%91%B2%F0%9D%92%86%F0%9D%92%9A-%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF%20%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1
+
+# Bamar Vpn - 𝑴𝒚𝒂𝒏𝒎𝒂𝒓 𝑨𝒍𝒍 𝑺𝒊𝒎 𝑶𝒖𝒕𝒍𝒊𝒏𝒆 𝑭𝒓𝒆𝒆-05
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NjFZL2RqTzZ1aHBwSDMyT1BIS2VJd0lpYmhnVFFpRHRKYVZiRExwbDUwUT06YmwxUERCVlZFc3BFY0IrZjIybFMvUUE0WkM4bEN5bTR4a2ZIb1l6elBiaz0@185.78.167.193:40449?type=tcp#%F0%9D%91%A8%F0%9D%92%8D%F0%9D%92%8D%20%F0%9D%91%BA%F0%9D%92%8A%F0%9D%92%8E%20%F0%9D%91%B6%F0%9D%92%96%F0%9D%92%95%F0%9D%92%8D%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%86%20%F0%9D%91%B2%F0%9D%92%86%F0%9D%92%9A-%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF%20%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1
+
+# ZixVpn - 🎮 Ais-Support-Game-FREE-01 💯
+vless://94e47042-097f-4272-b9aa-e235c8ecd3e4@free1.tarnage.site:8080?path=%2Fzixvpnfree1&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20Free%20O1
+
+# ZixVpn - 🎮 Ais-Support-Game-FREE-02 💯
+vless://b191afb0-cc13-482f-e491-9096638cf59e@free2.tarnage.site:8080?path=%2Fzixvpnfree&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%2002
+
+# ZixVpn - 🎮 Ais-Support-Game-FREE-03 💯
+vless://b191afb0-cc13-482f-e491-9096638cf59e@free2.tarnage.site:8080?path=%2Fzixvpnfree&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%2002
+
+# ZixVpn - 🎮 Ais-Support-Game-FREE-04 💯
+vless://b4c0bd15-c397-4b92-c8a5-51779800bb91@free3.tarnage.site:8080?path=%2Fzxivpnfree03&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%20O3
+
+# ZixVpn - 🎮 Ais-Support-Game_FREE-05💯
+vless://b4c0bd15-c397-4b92-c8a5-51779800bb91@free3.tarnage.site:8080?path=%2Fzxivpnfree03&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%20O3
+
+# ZixVpn - TrueVDO Server Free 01
+vless://94e47042-097f-4272-b9aa-e235c8ecd3e4@support.zoom.us:8080?path=%2F&security=none&encryption=none&host=free1.tarnage.site&type=ws#Free-TrueVDO
+
+# ZixVpn - TrueVDO Server Free 02
+vless://b191afb0-cc13-482f-e491-9096638cf59e@support.zoom.us:8080?path=%2F&security=none&encryption=none&host=free2.zixvpn.de5.net&type=ws#Free-TrueVDO%2002
+
+# ZixVpn - 🎮 Ais GAME Premium 01 💯
+vless://14d50ff9-43e0-4c39-876b-786baa5ee6b7@vip1.tarnage.site:8080?path=%2Fzixvip&security=&encryption=none&host=www.speedtest.net&type=ws#Vip1-ko%20khant
+
+# ZixVpn - TrueVDO Premium 01
+vless://14d50ff9-43e0-4c39-876b-786baa5ee6b7@support.zoom.us:8080?path=%2Fzixvip&security=none&encryption=none&host=vip1.tarnage.site&type=ws#Vip1-VDO
+
+# Leo-200777 - TRUE ZooM VDO (10mbps)_01
+vless://84d218f2-7cae-4ef9-bfb2-1034c34903e8@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-01
+
+# Leo-200777 - TRUE ZooM VDO (10mbps)_02
+vless://6db20c63-4c6d-4302-84c2-3ead5c6a1e86@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-02
+
+# Leo-200777 - TRUE ZooM VDO (10mbps)_03
+vless://90582bea-6003-465d-a368-1466d1d2f07e@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-03
+
+# Leo-200777 - TRUE ZooM VDO (10mbps)_04
+vless://313c7113-d77e-40b3-8444-786f53657faf@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-04
+
+# Leo-200777 - TRUE ZooM VDO (10mbps)_05
+vless://31d47767-1e61-4d82-a516-b015fff71563@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-05
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_01
+vless://bc8d186f-69b7-491e-8dd7-3c6219b70a13@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-01
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_02
+vless://c4c5d180-a7fe-449e-aec8-e4974147ee49@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-02
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_03
+vless://2ebb28cb-9bc8-4910-b25d-f04d2297d1a5@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-03
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_04
+vless://237cbf32-0633-4422-97c1-7256943565a3@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-04
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_05
+vless://16db4ee8-ed10-4f05-a93e-ccb39936bc36@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-05
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_06
+vless://39cccabc-d16c-4ae8-9ed3-a8590fc7f54f@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-06
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_07
+vless://6983f5b7-ab69-4ec0-bebf-24589826a1f8@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-07
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_08
+vless://da80f6ad-7453-407f-bed8-097477b271ed@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-08
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_09
+vless://0752a448-8432-4aed-9770-4cfc018dd4ab@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-09
+
+# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_10
+vless://461db357-6354-414d-8067-76695c562459@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-10
+

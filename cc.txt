@@ -1,639 +1,1487 @@
-# mkingvpnnaw2026 - Ais V2ray_Free 001
-vless://cc4cfdfe-8224-498c-c8d0-a514f94478ee@free1.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree1
-
-# mkingvpnnaw2026 - Ais V2ray_Free 002
-vless://4040ebdb-45f9-418f-ad0e-03b7f9eebced@free2.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree2
-
-# mkingvpnnaw2026 - Ais V2ray_Free 003
-vless://3dddd6d0-4520-4743-962c-af5f194f599c@free3.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree3
-
-# mkingvpnnaw2026 - Ais V2ray_Free 004
-vless://8eede0c2-4878-41af-afea-61764017fb99@free4.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree4
-
-# mkingvpnnaw2026 - Ais V2ray_Free 005
-vless://5fe9582a-cf2d-4cbb-f178-446aa64ac1cc@free5.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree5
-
-# mkingvpnnaw2026 - Ais V2ray_Free 006
-vless://f1e2ead4-0419-445d-ee5e-0d6fd9b46ac9@free6.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree6
-
-# mkingvpnnaw2026 - Ais V2ray_Free 007
-vless://988c550f-9824-453d-c4c7-bc273aa54b1d@free7.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree7
-
-# mkingvpnnaw2026 - Ais V2ray_Free 008
-vless://f39bac9c-9e38-4fa6-83ff-ed1d56b5e050@free8.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree8
-
-# mkingvpnnaw2026 - Ais V2ray Free 009
-vless://8eede0c2-4878-41af-afea-61764017fb99@free4.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree4
-
-# mkingvpnnaw2026 - Ais V2ray Free 010
-vless://5fe9582a-cf2d-4cbb-f178-446aa64ac1cc@free5.movpn.store:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#MoVPN-AisFree5
-
-# mkingvpnnaw2026 - True VDO_V2ray_Free 001
-vless://202995f6-3f9e-4609-e179-132711bf5c9f@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free1.movpn.store&type=ws#MoVPN-TrueFree1
-
-# mkingvpnnaw2026 - True VDO_V2ray_Free 002
-vless://f04fe3bc-de82-42a0-ee89-d516bf9af939@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free2.movpn.store&type=ws#MoVPN-TrueFree2
-
-# mkingvpnnaw2026 - True VDO_V2ray_Free 003
-vless://a5864b70-1feb-4636-8821-5f2a681430f7@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free3.movpn.store&type=ws#MoVPN-TrueFree3
-
-# mkingvpnnaw2026 - True VDO_V2ray_Free 004
-vless://884ca443-c0c0-442f-a880-5d17b7c18ab4@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free4.movpn.store&type=ws#MoVPN-TrueFree4
-
-# mkingvpnnaw2026 - True VDO_V2ray_Free 005
-vless://a606ffea-e9a8-4ea0-88cf-4de6125594cd@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free5.movpn.store&type=ws#MoVPN-TrueFree5
-
-# mkingvpnnaw2026 - True VDO_V2ray_Free 006
-vless://fbe77f56-b086-4bbd-a725-b701a04cd238@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free6.movpn.store&type=ws#MoVPN-TrueFree6
-
-# mkingvpnnaw2026 - True VDO_V2ray_Free 007
-vless://d5b19dec-9fe2-4e98-deda-23d4724b213e@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free7.movpn.store&type=ws#MoVPN-TrueFree7
-
-# mkingvpnnaw2026 - True VDO_V2ray_Free 008
-vless://b0e62cf5-77af-4c6f-e601-7e4b036b5e86@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free8.movpn.store&type=ws#MoVPN-TrueFree8
-
-# mkingvpnnaw2026 - True VDO V2ray Free 009
-vless://884ca443-c0c0-442f-a880-5d17b7c18ab4@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free4.movpn.store&type=ws#MoVPN-TrueFree4
-
-# mkingvpnnaw2026 - True VDO V2ray Free 010
-vless://a606ffea-e9a8-4ea0-88cf-4de6125594cd@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=free5.movpn.store&type=ws#MoVPN-TrueFree5
-
-# goodvpn - Z-AIS1(MaxSpeed100+Mbps)
-vless://80b12492-5274-4a6e-9283-a32b397d94a7@116.204.183.126:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais1-ais1
-
-# goodvpn - Z-AIS2(MaxSpeed100+Mbps)
-vless://25b7bf0a-da0a-4c57-9fef-315d857c3587@116.204.181.186:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais3-ais3
-
-# goodvpn - Z-AIS3(MaxSpeed100+Mbps)
-vless://ce8eb32c-148b-470e-9f15-b6c01b0129ad@116.204.183.176:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais4-ais4
-
-# goodvpn - Z-AIS4(MaxSpeed100+Mbps)
-vless://5c73d60c-9d32-4b3b-aaf8-f8c5ad413f29@103.169.67.58:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais2-ais2
-
-# goodvpn - Z-AIS5(MaxSpeed100+Mbps)
-vless://ee4ece15-22df-41c0-a7e7-dc2b3df7ebc0@103.169.67.254:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais5-ais5
-
-# goodvpn - Z-AIS6(MaxSpeed100+Mbps)
-vless://b3035a9c-0bcb-4073-ae6b-47d154d92f50@zgood6.itimaek.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais6-ais
-
-# goodvpn - Z-AIS7(MaxSpeed100+Mbps)
-vless://01382ef9-8ef0-4a63-91c8-d9e526b7c198@zgood7.itimaek.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais7-ais
-
-# goodvpn - Z-AIS8(MaxSpeed100+Mbps)
-vless://b0df34af-ba5b-4bd3-9401-66362623ac1f@zgood8.itimaek.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais8-ais
-
-# Leo-200777 - TRUE ZooM VDO (10mbps)_01
-vless://84d218f2-7cae-4ef9-bfb2-1034c34903e8@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-01
-
-# Leo-200777 - TRUE ZooM VDO (10mbps)_02
-vless://6db20c63-4c6d-4302-84c2-3ead5c6a1e86@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-02
-
-# Leo-200777 - TRUE ZooM VDO (10mbps)_03
-vless://90582bea-6003-465d-a368-1466d1d2f07e@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-03
-
-# Leo-200777 - TRUE ZooM VDO (10mbps)_04
-vless://313c7113-d77e-40b3-8444-786f53657faf@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-04
-
-# Leo-200777 - TRUE ZooM VDO (10mbps)_05
-vless://31d47767-1e61-4d82-a516-b015fff71563@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-05
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_01
-vless://bc8d186f-69b7-491e-8dd7-3c6219b70a13@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-01
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_02
-vless://c4c5d180-a7fe-449e-aec8-e4974147ee49@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-02
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_03
-vless://2ebb28cb-9bc8-4910-b25d-f04d2297d1a5@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-03
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_04
-vless://237cbf32-0633-4422-97c1-7256943565a3@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-04
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_05
-vless://16db4ee8-ed10-4f05-a93e-ccb39936bc36@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-05
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_06
-vless://39cccabc-d16c-4ae8-9ed3-a8590fc7f54f@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-06
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_07
-vless://6983f5b7-ab69-4ec0-bebf-24589826a1f8@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-07
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_08
-vless://da80f6ad-7453-407f-bed8-097477b271ed@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-08
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_09
-vless://0752a448-8432-4aed-9770-4cfc018dd4ab@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-09
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_10
-vless://461db357-6354-414d-8067-76695c562459@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-10
-
-# ZixVpn - 🎮 Ais-Support-Game-FREE-01 💯
-vless://94e47042-097f-4272-b9aa-e235c8ecd3e4@free1.tarnage.site:8080?path=%2Fzixvpnfree1&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20Free%20O1
-
-# ZixVpn - 🎮 Ais-Support-Game-FREE-02 💯
-vless://b191afb0-cc13-482f-e491-9096638cf59e@free2.tarnage.site:8080?path=%2Fzixvpnfree&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%2002
-
-# ZixVpn - 🎮 Ais-Support-Game-FREE-03 💯
-vless://b191afb0-cc13-482f-e491-9096638cf59e@free2.tarnage.site:8080?path=%2Fzixvpnfree&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%2002
-
-# ZixVpn - 🎮 Ais-Support-Game-FREE-04 💯
-vless://b4c0bd15-c397-4b92-c8a5-51779800bb91@free3.tarnage.site:8080?path=%2Fzxivpnfree03&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%20O3
-
-# ZixVpn - 🎮 Ais-Support-Game_FREE-05💯
-vless://b4c0bd15-c397-4b92-c8a5-51779800bb91@free3.tarnage.site:8080?path=%2Fzxivpnfree03&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%20O3
-
-# ZixVpn - TrueVDO Server Free 01
-vless://94e47042-097f-4272-b9aa-e235c8ecd3e4@support.zoom.us:8080?path=%2F&security=none&encryption=none&host=free1.tarnage.site&type=ws#Free-TrueVDO
-
-# ZixVpn - TrueVDO Server Free 02
-vless://b191afb0-cc13-482f-e491-9096638cf59e@support.zoom.us:8080?path=%2F&security=none&encryption=none&host=free2.zixvpn.de5.net&type=ws#Free-TrueVDO%2002
-
-# ZixVpn - 🎮 Ais GAME Premium 01 💯
-vless://14d50ff9-43e0-4c39-876b-786baa5ee6b7@vip1.tarnage.site:8080?path=%2Fzixvip&security=&encryption=none&host=www.speedtest.net&type=ws#Vip1-ko%20khant
-
-# ZixVpn - TrueVDO Premium 01
-vless://14d50ff9-43e0-4c39-876b-786baa5ee6b7@support.zoom.us:8080?path=%2Fzixvip&security=none&encryption=none&host=vip1.tarnage.site&type=ws#Vip1-VDO
-
-# ZixVpn - MYANMAR Outline ALL SIM WIFI-FREE 01
-vmess://eyJhZGQiOiIxMDMuMTE0LjIwMy42NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxOGVlMDI2Ny0wYTQ4LTQ1ODUtYmRjMi02NGM1N2JlMDlmMzQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI2MjY3IiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIFZNRVNTLUZSRUUgMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-# ZixVpn - MYANMAR Outline ALL SIM WIFI-FREE 02
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U1B0ZEVkekFrQnZCS0UzcHN6TDhNYUVVQXJVNm9LRnoxTG9hNjZ6U1BsQT06RlNSY2s5U2ppRVFKRDM0bCs5SGdBVS9ibi9TU0VXRFFLb0NTK2M0YmtkZz0%3D@43.229.135.160:29190#MYANMAR%20Outline%20ALL%20SIM%20WIFI%20FREE%2002
-
-# ZixVpn - MYANMAR Outline ALL SIM WIFI FREE 03
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OXYxQWdjZUcyUGtldXh3M2ZjZ3ZORVFIZHFha0FqWjhnT21VcTdGMlluQT06UXovT3BGd0RTR1FyK3krTGpjazVZM09yZXlpam5hTTd2d1ROanRxWUNFZz0%3D@165.101.64.179:56047#MYANMAR%20Outline%20ALL%20SIM%20WIFI%20FREE%2003
-
-# ZixVpn - MYANMAR Outline ALL SIM WIFI FREE 04
-vmess://eyJhZGQiOiIxMDMuMTE0LjIwMy42NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxOGVlMDI2Ny0wYTQ4LTQ1ODUtYmRjMi02NGM1N2JlMDlmMzQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI2MjY3IiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIFZNRVNTLUZSRUUgMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-# ZixVpn - MYANMAR Outline ALL SIM WIFI FREE 06
-vmess://eyJhZGQiOiIxNjUuMTAxLjY0LjE3OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmNjMxNzZhNC1iY2M5LTQ2ZDItZWI2YS00M2I3YzcyYWVlNzkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI0MTY1IiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIFZNRVNTLUZSRUUgMDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-# ZixVpn - MYANMAR Outline ALL SIM WIFI FREE 05
-vmess://eyJhZGQiOiI0My4yMjkuMTM1LjE2MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1ZTNjZDcwNS0zOWJmLTRmYjMtOTMyOS02NWMwODlkZjliYmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzNjAyIiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIHZtc3NzIEZSRUUgMDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-# Bamar Vpn - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-01
-vless://f3bd581b-6aa3-4408-c72e-fed59ba08334@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=kophyoe.online&type=ws#103-130-KAKHANGA-VDO
-
-# Bamar Vpn - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-02
-vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDEua29waHlvZS5vbmxpbmUiLCJpZCI6IjA1ZDMwNDYzLTdjMmEtNDI4Ni1kODU0LTU5NjJlMzkzZWEzZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODg4MCIsInBzIjoiMTAzLTI1MS1LYUtoYVZETyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# Bamar Vpn - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-03
-vless://3905246b-605d-40a8-f517-3302f2b4caf8@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=mmt2.kophyoe.online&type=ws#103-252-VDO-Bamar
-
-# Bamar Vpn - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-04
-vless://cba60c38-7d31-455a-d090-7d95e03270b3@support.zoom.us:80?path=%2Fvless&security=&encryption=none&host=mmt4.kophyoe.online&type=ws#185-193-KAKHANGA-VDO
-
-# Bamar Vpn - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-05
-vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDUua29waHlvZS5vbmxpbmUiLCJpZCI6IjljMGE2ODU0LTUwMzAtNDcxNi1iNGE1LTZiNTExZjI4ODAyZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IjQzLTE1NC1LYUtoYU5nYVZQTi1WRE8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-# Bamar Vpn - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-06
-vless://5c918aa6-f64b-4cc4-8dcb-2af8b76a2a43@support.zoom.us:8880?path=%2F&security=none&encryption=none&host=mmt6.kophyoe.online&type=ws#43-97-KaKhaNgaVPN-VDO
-
-# Bamar Vpn - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-01
-vless://f3bd581b-6aa3-4408-c72e-fed59ba08334@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=kophyoe.online&type=ws#103-130-KAKHANGA-VDO
-
-# Bamar Vpn - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-02
-vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDEua29waHlvZS5vbmxpbmUiLCJpZCI6IjA1ZDMwNDYzLTdjMmEtNDI4Ni1kODU0LTU5NjJlMzkzZWEzZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODg4MCIsInBzIjoiMTAzLTI1MS1LYUtoYVZETyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# Bamar Vpn - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-03
-vless://3905246b-605d-40a8-f517-3302f2b4caf8@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=mmt2.kophyoe.online&type=ws#103-252-VDO-Bamar
-
-# Bamar Vpn - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-04
-vless://cba60c38-7d31-455a-d090-7d95e03270b3@support.zoom.us:80?path=%2Fvless&security=&encryption=none&host=mmt4.kophyoe.online&type=ws#185-193-KAKHANGA-VDO
-
-# Bamar Vpn - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-05
-vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDUua29waHlvZS5vbmxpbmUiLCJpZCI6IjljMGE2ODU0LTUwMzAtNDcxNi1iNGE1LTZiNTExZjI4ODAyZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IjQzLTE1NC1LYUtoYU5nYVZQTi1WRE8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-# Bamar Vpn - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-06
-vless://5c918aa6-f64b-4cc4-8dcb-2af8b76a2a43@support.zoom.us:8880?path=%2F&security=none&encryption=none&host=mmt6.kophyoe.online&type=ws#43-97-KaKhaNgaVPN-VDO
-
-# Bamar Vpn - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-01
-vless://47649ea0-b2a4-43ee-99cd-51f70f60f88b@mmt6.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#43-97-KaKhaNga-Ais
-
-# Bamar Vpn - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-02
-vmess://eyJhZGQiOiJtbXQxLmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiMmVjYTJlNzMtNjlkZS00ZmE4LWU4MzAtZTM4ZWZhNmNkMmM1IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL01NVFZQTiIsInBvcnQiOiI4ODgwIiwicHMiOiIxMDMtMjUxLTg4ODAtS2FLaGFBSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-# Bamar Vpn - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-03
-vmess://eyJhZGQiOiJiYW1hci5rb3BoeW9lLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImMxMzYyYzVjLTQ2ZWItNDQ2Zi1hZjBlLTMyYWIwY2U0OTI1ZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODAiLCJwcyI6IjEwMy0xMzAtODAtQmFtYXJWcG4tQWlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-
-# Bamar Vpn - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-04
-vmess://eyJhZGQiOiJtbXQ1LmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiZTE2NWQ2MmItNDk1Zi00YmUyLTk0MjctZjE1MzhiODZkODZjIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiNDMtMTU0LUthS2hhTmdhVnBuLUFJUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# Bamar Vpn - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-05
-vless://e258ac64-0784-49b9-cb49-f2d6e7f364a5@mmt4.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#185-193-80-KAKHANGA-AIS
-
-# Bamar Vpn - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-06
-vless://3aed7115-dbfc-47e2-e20d-95acdd8341dc@mmt1.kophyoe.online:80?path=%2FMMTVPN&security=none&encryption=none&host=www.speedtest.net&type=ws#103-251-80-Bamar-AIS
-
-# Bamar Vpn - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-01
-vless://3aed7115-dbfc-47e2-e20d-95acdd8341dc@mmt1.kophyoe.online:80?path=%2FMMTVPN&security=none&encryption=none&host=www.speedtest.net&type=ws#103-251-80-Bamar-AIS
-
-# Bamar Vpn - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-02
-vless://e258ac64-0784-49b9-cb49-f2d6e7f364a5@mmt4.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#185-193-80-KAKHANGA-AIS
-
-# Bamar Vpn - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-03
-vmess://eyJhZGQiOiJtbXQ1LmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiZTE2NWQ2MmItNDk1Zi00YmUyLTk0MjctZjE1MzhiODZkODZjIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiNDMtMTU0LUthS2hhTmdhVnBuLUFJUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# Bamar Vpn - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-04
-vmess://eyJhZGQiOiJiYW1hci5rb3BoeW9lLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImMxMzYyYzVjLTQ2ZWItNDQ2Zi1hZjBlLTMyYWIwY2U0OTI1ZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODAiLCJwcyI6IjEwMy0xMzAtODAtQmFtYXJWcG4tQWlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-
-# Bamar Vpn - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-05
-vmess://eyJhZGQiOiJtbXQxLmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiMmVjYTJlNzMtNjlkZS00ZmE4LWU4MzAtZTM4ZWZhNmNkMmM1IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL01NVFZQTiIsInBvcnQiOiI4ODgwIiwicHMiOiIxMDMtMjUxLTg4ODAtS2FLaGFBSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-# Bamar Vpn - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-06
-vless://47649ea0-b2a4-43ee-99cd-51f70f60f88b@mmt6.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#43-97-KaKhaNga-Ais
-
-# Bamar Vpn - 𝑴𝒚𝒂𝒏𝒎𝒂𝒓 𝑨𝒍𝒍 𝑺𝒊𝒎 𝑶𝒖𝒕𝒍𝒊𝒏𝒆 𝑭𝒓𝒆𝒆-01
-ss://YWVzLTI1Ni1nY206cVFPNVI3bzNNS2hrL05HMWlJQ3BTRGRIVkxGVDFLcUNkL1NEeFVEdkZEVT0@mmt6.kophyoe.online:52351?type=tcp#All-SIM-MY-%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF%20%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1
-
-# Bamar Vpn - 𝑴𝒚𝒂𝒏𝒎𝒂𝒓 𝑨𝒍𝒍 𝑺𝒊𝒎 𝑶𝒖𝒕𝒍𝒊𝒏𝒆 𝑭𝒓𝒆𝒆-02
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bGpHcU56QlZGc3h6bDNDcWszSUF5ZzIvTytBd3hXUlkxSTZHN2JCZXpCUT06UndhOXA1cmtyYjRDR201UnBzSWVOaW42YzJPT0RZZWhwd1Z4MHhLREdTZz0@mmt5.kophyoe.online:8443?type=tcp#All-Sim-%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF%20%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1
-
-# Bamar Vpn - 𝑴𝒚𝒂𝒏𝒎𝒂𝒓 𝑨𝒍𝒍 𝑺𝒊𝒎 𝑶𝒖𝒕𝒍𝒊𝒏𝒆 𝑭𝒓𝒆𝒆-03
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NjFZL2RqTzZ1aHBwSDMyT1BIS2VJd0lpYmhnVFFpRHRKYVZiRExwbDUwUT06YmwxUERCVlZFc3BFY0IrZjIybFMvUUE0WkM4bEN5bTR4a2ZIb1l6elBiaz0@185.78.167.193:40449?type=tcp#%F0%9D%91%A8%F0%9D%92%8D%F0%9D%92%8D%20%F0%9D%91%BA%F0%9D%92%8A%F0%9D%92%8E%20%F0%9D%91%B6%F0%9D%92%96%F0%9D%92%95%F0%9D%92%8D%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%86%20%F0%9D%91%B2%F0%9D%92%86%F0%9D%92%9A-%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF%20%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1
-
-# Bamar Vpn - 𝑴𝒚𝒂𝒏𝒎𝒂𝒓 𝑨𝒍𝒍 𝑺𝒊𝒎 𝑶𝒖𝒕𝒍𝒊𝒏𝒆 𝑭𝒓𝒆𝒆-04
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NjFZL2RqTzZ1aHBwSDMyT1BIS2VJd0lpYmhnVFFpRHRKYVZiRExwbDUwUT06YmwxUERCVlZFc3BFY0IrZjIybFMvUUE0WkM4bEN5bTR4a2ZIb1l6elBiaz0@185.78.167.193:40449?type=tcp#%F0%9D%91%A8%F0%9D%92%8D%F0%9D%92%8D%20%F0%9D%91%BA%F0%9D%92%8A%F0%9D%92%8E%20%F0%9D%91%B6%F0%9D%92%96%F0%9D%92%95%F0%9D%92%8D%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%86%20%F0%9D%91%B2%F0%9D%92%86%F0%9D%92%9A-%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF%20%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1
-
-# Bamar Vpn - 𝑴𝒚𝒂𝒏𝒎𝒂𝒓 𝑨𝒍𝒍 𝑺𝒊𝒎 𝑶𝒖𝒕𝒍𝒊𝒏𝒆 𝑭𝒓𝒆𝒆-05
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQmJqeWppdTh3UXJNVUVFQjdUKzhWN1RJSTFOVDZrdDEvSXdkK2dyVkdrPQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-BamarVPN
-
-# aluya20 - 🟡 DIGI 01
-vless://a1ad4cb3-5282-4c81-a896-7842e3229ec7@104.20.44.247:80?path=%2Fpontai&security=none&encryption=none&host=v1.mister-chills.uk&type=ws#truevideo%20v1
-
-# aluya20 - 🟡 DIGI 02
-vless://1aee1c44-8312-4816-8882-2c0707e02a8c@104.20.44.247:80?path=%2Fpongtai&security=none&encryption=none&host=v2.mister-chills.uk&type=ws#truevido%20v2
-
-# aluya20 - 🟡 DIGI 03
-vless://ed5acba8-6dcd-4ab1-939a-1af054599d86@104.20.44.247:80?path=%2Fpongtai&security=none&encryption=none&host=v3.mister-chills.uk&type=ws#truevideo%20v3
-
-# aluya20 - 🟢AIS กันรั่ว 01
-vless://a1ad4cb3-5282-4c81-a896-7842e3229ec7@v1.mister-chills.uk:80?path=%2Fpontai&security=none&encryption=none&host=speedtest.net&type=ws#ais%20v1
-
-# aluya20 - 🟢AIS กันรั่ว 02
-vless://1aee1c44-8312-4816-8882-2c0707e02a8c@v2.mister-chills.uk:80?path=%2Fpongtai&security=none&encryption=none&host=speedtest.net&type=ws#ais%20v2
-
-# aluya20 - 🟢AIS กันรั่ว 03
-vless://ed5acba8-6dcd-4ab1-939a-1af054599d86@v3.mister-chills.uk:80?path=%2Fpongtai&security=none&encryption=none&host=speedtest.net&type=ws#aisv3
-
-# aluya20 - 🟥 TRUE VDO 01
-vless://a1ad4cb3-5282-4c81-a896-7842e3229ec7@support.zoom.us:80?path=%2Fpontai&security=none&encryption=none&host=v1.mister-chills.uk&type=ws#truevideo%20v1
-
-# aluya20 - 🟥TRUE VDO 02
-vless://1aee1c44-8312-4816-8882-2c0707e02a8c@support.zoom.us:80?path=%2Fpongtai&security=none&encryption=none&host=v2.mister-chills.uk&type=ws#truevido%20v2
-
-# aluya20 - 🟥TRUE VDO 03
-vless://ed5acba8-6dcd-4ab1-939a-1af054599d86@support.zoom.us:80?path=%2Fpongtai&security=none&encryption=none&host=v3.mister-chills.uk&type=ws#truevideo%20v3
-
-# hwvpnprofreevip2026 - Server Ais Free 01
-vless://4a559b18-18a4-4b09-e1f2-b3ea2ee84770@141.98.18.12:8080?type=ws&encryption=none&path=%2F&host=&security=none#Free
-
-# hwvpnprofreevip2026 - Server Ais V2Ray Free 02
-vless://4a559b18-18a4-4b09-e1f2-b3ea2ee84770@141.98.18.12:8080?type=ws&encryption=none&path=%2F&host=&security=none#Free
-
-# hwvpnprofreevip2026 - Server Ais Premium 01
-vmess://eyJhZGQiOiJ2aXAwNC5odG9vd2FyLnNpdGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5zcGVlZHRlc3QubmV0IiwiaWQiOiI0N2MxOTUyZS03NTYzLTQxYzQtYTM3MS02ZDYxZDhjYmU3OWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwODAiLCJwcyI6IkFpcyBWSVAtdGk2bW9mcWgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-# hwvpnprofreevip2026 - Server Ais Premium 02
-vless://28fc0675-2643-4524-e604-80c33634010b@support.zoom.us:8080?path=%2F&security=none&encryption=none&host=udp02.hwvpn.site&type=ws#v203-hkyviskx
-
-# sansoe12345 - US 1
-vmess://eyJhZGQiOiJzdnBudXMxLnNrc3Zwbi5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjai1zcGVlZHRlc3QuZWJiLm15IiwiaWQiOiJlYzJmNGFhNC01YzM2LTQ2NjgtOWE0YS04Y2JjM2JmOGUyZDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvbFBiQm9ZcHkvIiwicG9ydCI6IjgwODAiLCJwcyI6InVzIDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-# sansoe12345 - IN 1
-vmess://eyJhZGQiOiJzdnBuaW4xLnNrc3Zwbi5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjai1zcGVlZHRlc3QuZWJiLm15IiwiaWQiOiJlMjNjZGRlMC1mMTQ5LTQ0NjUtOWZlZi1lOGM0YzI1OWM3MWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQUVtaTNqMU8vIiwicG9ydCI6IjgwODAiLCJwcyI6ImluIDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-# sansoe12345 - Thailand 1
-vmess://eyJhZGQiOiJzdnBuZnJlZTFtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjlkNWNmMzMwLWM0MTUtNGQ4YS04MTQ4LTJkM2M5NDdmNmMwMCIsIm5ldCI6IndzIiwicGF0aCI6Ii83alZkZzJIcS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSAxIG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# sansoe12345 - Thailand 2
-vmess://eyJhZGQiOiJzdnBuZnJlZTJtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjVjZTI5NjlhLTU2OWYtNGE3Yy1hYWYxLWI1NzAzMGRkNjRlZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9KRVBPTVVoVy8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSAyIG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# sansoe12345 - Thailand 3
-vmess://eyJhZGQiOiJzdnBuZnJlZTJtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjdhNDM3NDQ4LTY2NDUtNDZmNC1hODJjLTY0OTQ4MmRkZDFlMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9tSVNuUnAwTy8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSAzIG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# sansoe12345 - Thailand 4
-vmess://eyJhZGQiOiJzdnBuZnJlZTRtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImJkMjcxM2UxLTY0NDAtNGViMC1hNzQ5LTUyOTc0MWNjM2Q4MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9YNkE3Q2hrOS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA0IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# sansoe12345 - Thailand 5
-vmess://eyJhZGQiOiJzdnBuZnJlZTVtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjhmNjM0NWZhLWYxNDYtNGYzOS1iY2RjLWI4N2FkOWQyMTI0YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9LUlo1dHdrOC8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA1IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# sansoe12345 - Thailand 6
-vmess://eyJhZGQiOiJzdnBuZnJlZTZtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjY3ZTU2OTNiLWI4Y2MtNGQxYi1iZDg0LWMzMGI1MzFmNWNkZiIsIm5ldCI6IndzIiwicGF0aCI6Ii90aDRGTzVuZy8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA2IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# sansoe12345 - Thailand 7
-vmess://eyJhZGQiOiJzdnBuZnJlZTdtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImJkNWQwNWFiLWUwYzEtNDFhMS1hNzA5LTYyOWY2ZDY3MDM4ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8xaEx3cXBaby8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA3IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# sansoe12345 - Thailand 8
-vmess://eyJhZGQiOiJzdnBuZnJlZThtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImMzNGRlYjg5LWFjN2UtNDA5Yy1hNWZmLTk3M2JjZTM5ZjFjYiIsIm5ldCI6IndzIiwicGF0aCI6Ii91Y0dWcUFqRS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA4IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# sansoe12345 - Thailand 9
-vmess://eyJhZGQiOiJzdnBuZnJlZTltYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjM3ODJkNDFjLTVlZWItNGJiMC1hMDI5LTU2MDk0ZWYxMWU0YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9nNnZrajBMOS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA5IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# sansoe12345 - Thailand 10
-vmess://eyJhZGQiOiJzdnBuZnJlZTEwbWFyLnNrc3Zwbi5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjai1zcGVlZHRlc3QuZWJiLm15IiwiaWQiOiJjMmE3MDlmNS1jYWEzLTQ5OTctYjc3NS04N2Y0ODEwMjU2N2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYUpJbVBZRUwvIiwicG9ydCI6IjgwODAiLCJwcyI6ImZyZWUgMTAgbWFyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-
-# aluya20 - 🟡 DIGI 01
-vless://a1ad4cb3-5282-4c81-a896-7842e3229ec7@104.20.44.247:80?path=%2Fpontai&security=none&encryption=none&host=v1.mister-chills.uk&type=ws#truevideo%20v1
-
-# aluya20 - 🟡 DIGI 02
-vless://1aee1c44-8312-4816-8882-2c0707e02a8c@104.20.44.247:80?path=%2Fpongtai&security=none&encryption=none&host=v2.mister-chills.uk&type=ws#truevido%20v2
-
-# aluya20 - 🟡 DIGI 03
-vless://ed5acba8-6dcd-4ab1-939a-1af054599d86@104.20.44.247:80?path=%2Fpongtai&security=none&encryption=none&host=v3.mister-chills.uk&type=ws#truevideo%20v3
-
-# aluya20 - 🟢AIS กันรั่ว 01
-vless://a1ad4cb3-5282-4c81-a896-7842e3229ec7@v1.mister-chills.uk:80?path=%2Fpontai&security=none&encryption=none&host=speedtest.net&type=ws#ais%20v1
-
-# aluya20 - 🟢AIS กันรั่ว 02
-vless://1aee1c44-8312-4816-8882-2c0707e02a8c@v2.mister-chills.uk:80?path=%2Fpongtai&security=none&encryption=none&host=speedtest.net&type=ws#ais%20v2
-
-# aluya20 - 🟢AIS กันรั่ว 03
-vless://ed5acba8-6dcd-4ab1-939a-1af054599d86@v3.mister-chills.uk:80?path=%2Fpongtai&security=none&encryption=none&host=speedtest.net&type=ws#aisv3
-
-# aluya20 - 🟥 TRUE VDO 01
-vless://a1ad4cb3-5282-4c81-a896-7842e3229ec7@support.zoom.us:80?path=%2Fpontai&security=none&encryption=none&host=v1.mister-chills.uk&type=ws#truevideo%20v1
-
-# aluya20 - 🟥TRUE VDO 02
-vless://1aee1c44-8312-4816-8882-2c0707e02a8c@support.zoom.us:80?path=%2Fpongtai&security=none&encryption=none&host=v2.mister-chills.uk&type=ws#truevido%20v2
-
-# aluya20 - 🟥TRUE VDO 03
-vless://ed5acba8-6dcd-4ab1-939a-1af054599d86@support.zoom.us:80?path=%2Fpongtai&security=none&encryption=none&host=v3.mister-chills.uk&type=ws#truevideo%20v3
-
-# 2188 - 🎮 Ais-Support-Game-FREE-01 💯
-vless://94e47042-097f-4272-b9aa-e235c8ecd3e4@free1.tarnage.site:8080?path=%2Fzixvpnfree1&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20Free%20O1
-
-# 2188 - 🎮 Ais-Support-Game-FREE-02 💯
-vless://b191afb0-cc13-482f-e491-9096638cf59e@free2.tarnage.site:8080?path=%2Fzixvpnfree&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%2002
-
-# 2188 - 🎮 Ais-Support-Game-FREE-03 💯
-vless://b191afb0-cc13-482f-e491-9096638cf59e@free2.tarnage.site:8080?path=%2Fzixvpnfree&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%2002
-
-# 2188 - 🎮 Ais-Support-Game-FREE-04 💯
-vless://b4c0bd15-c397-4b92-c8a5-51779800bb91@free3.tarnage.site:8080?path=%2Fzxivpnfree03&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%20O3
-
-# 2188 - 🎮 Ais-Support-Game_FREE-05💯
-vless://b4c0bd15-c397-4b92-c8a5-51779800bb91@free3.tarnage.site:8080?path=%2Fzxivpnfree03&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%20O3
-
-# 2188 - TrueVDO Server Free 01
-vless://94e47042-097f-4272-b9aa-e235c8ecd3e4@support.zoom.us:8080?path=%2F&security=none&encryption=none&host=free1.tarnage.site&type=ws#Free-TrueVDO
-
-# 2188 - TrueVDO Server Free 02
-vless://b191afb0-cc13-482f-e491-9096638cf59e@support.zoom.us:8080?path=%2F&security=none&encryption=none&host=free2.zixvpn.de5.net&type=ws#Free-TrueVDO%2002
-
-# 2188 - 🎮 Ais GAME Premium 01 💯
-vless://14d50ff9-43e0-4c39-876b-786baa5ee6b7@vip1.tarnage.site:8080?path=%2Fzixvip&security=&encryption=none&host=www.speedtest.net&type=ws#Vip1-ko%20khant
-
-# 2188 - TrueVDO Premium 01
-vless://14d50ff9-43e0-4c39-876b-786baa5ee6b7@support.zoom.us:8080?path=%2Fzixvip&security=none&encryption=none&host=vip1.tarnage.site&type=ws#Vip1-VDO
-
-# 2188 - MYANMAR Outline ALL SIM WIFI-FREE 01
-vmess://eyJhZGQiOiIxMDMuMTE0LjIwMy42NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxOGVlMDI2Ny0wYTQ4LTQ1ODUtYmRjMi02NGM1N2JlMDlmMzQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI2MjY3IiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIFZNRVNTLUZSRUUgMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-# 2188 - MYANMAR Outline ALL SIM WIFI-FREE 02
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U1B0ZEVkekFrQnZCS0UzcHN6TDhNYUVVQXJVNm9LRnoxTG9hNjZ6U1BsQT06RlNSY2s5U2ppRVFKRDM0bCs5SGdBVS9ibi9TU0VXRFFLb0NTK2M0YmtkZz0%3D@43.229.135.160:29190#MYANMAR%20Outline%20ALL%20SIM%20WIFI%20FREE%2002
-
-# 2188 - MYANMAR Outline ALL SIM WIFI FREE 03
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OXYxQWdjZUcyUGtldXh3M2ZjZ3ZORVFIZHFha0FqWjhnT21VcTdGMlluQT06UXovT3BGd0RTR1FyK3krTGpjazVZM09yZXlpam5hTTd2d1ROanRxWUNFZz0%3D@165.101.64.179:56047#MYANMAR%20Outline%20ALL%20SIM%20WIFI%20FREE%2003
-
-# 2188 - MYANMAR Outline ALL SIM WIFI FREE 04
-vmess://eyJhZGQiOiIxMDMuMTE0LjIwMy42NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxOGVlMDI2Ny0wYTQ4LTQ1ODUtYmRjMi02NGM1N2JlMDlmMzQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI2MjY3IiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIFZNRVNTLUZSRUUgMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-# 2188 - MYANMAR Outline ALL SIM WIFI FREE 06
-vmess://eyJhZGQiOiIxNjUuMTAxLjY0LjE3OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmNjMxNzZhNC1iY2M5LTQ2ZDItZWI2YS00M2I3YzcyYWVlNzkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI0MTY1IiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIFZNRVNTLUZSRUUgMDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-# 2188 - MYANMAR Outline ALL SIM WIFI FREE 05
-vmess://eyJhZGQiOiI0My4yMjkuMTM1LjE2MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1ZTNjZDcwNS0zOWJmLTRmYjMtOTMyOS02NWMwODlkZjliYmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzNjAyIiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIHZtc3NzIEZSRUUgMDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-# thnetvpn.netlify -  Ais-Support-Game_FREE-01 
-vless://94e47042-097f-4272-b9aa-e235c8ecd3e4@free1.tarnage.site:8080?path=%2Fzixvpnfree1&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20Free%20O1
-
-# thnetvpn.netlify -  Ais-Support-Game_FREE-02 
-vless://b191afb0-cc13-482f-e491-9096638cf59e@free2.tarnage.site:8080?path=%2Fzixvpnfree&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%2002
-
-# thnetvpn.netlify -  Ais-Support-Game-FREE-03 
-vless://b4c0bd15-c397-4b92-c8a5-51779800bb91@free3.tarnage.site:8080?path=%2Fzxivpnfree03&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%20O3
-
-# thnetvpn.netlify -  Ais-Support-Game-FREE-04
-vless://94e47042-097f-4272-b9aa-e235c8ecd3e4@free1.tarnage.site:8080?path=%2Fzixvpnfree1&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20Free%20O1
-
-# thnetvpn.netlify - Ais-Support-Game-FREE-06 
-vless://b4c0bd15-c397-4b92-c8a5-51779800bb91@free3.tarnage.site:8080?path=%2Fzxivpnfree03&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%20O3
-
-# thnetvpn.netlify -  Ais-Support-Game-FREE-05
-vless://b191afb0-cc13-482f-e491-9096638cf59e@free2.tarnage.site:8080?path=%2Fzixvpnfree&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS%20FREE%2002
-
-# thnetvpn.netlify - TrueVDO Server Free 01
-vless://94e47042-097f-4272-b9aa-e235c8ecd3e4@support.zoom.us:8080?path=%2F&security=none&encryption=none&host=free1.tarnage.site&type=ws#Free-TrueVDO
-
-# thnetvpn.netlify - TrueVDO Server Free 02
-vless://b191afb0-cc13-482f-e491-9096638cf59e@support.zoom.us:8080?path=%2F&security=none&encryption=none&host=free2.zixvpn.de5.net&type=ws#Free-TrueVDO%2002
-
-# thnetvpn.netlify -  MYANMAR Outline ALL SIM WIFI-FREE 01 
-vmess://eyJhZGQiOiIxMDMuMTE0LjIwMy42NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxOGVlMDI2Ny0wYTQ4LTQ1ODUtYmRjMi02NGM1N2JlMDlmMzQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI2MjY3IiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIFZNRVNTLUZSRUUgMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-# thnetvpn.netlify -  MYANMAR Outline ALL SIM WIFI FREE 02
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U1B0ZEVkekFrQnZCS0UzcHN6TDhNYUVVQXJVNm9LRnoxTG9hNjZ6U1BsQT06RlNSY2s5U2ppRVFKRDM0bCs5SGdBVS9ibi9TU0VXRFFLb0NTK2M0YmtkZz0%3D@43.229.135.160:29190#MYANMAR%20Outline%20ALL%20SIM%20WIFI%20FREE%2002
-
-# thnetvpn.netlify -  MYANMAR Outline ALL SIM WIFI FREE 03
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OXYxQWdjZUcyUGtldXh3M2ZjZ3ZORVFIZHFha0FqWjhnT21VcTdGMlluQT06UXovT3BGd0RTR1FyK3krTGpjazVZM09yZXlpam5hTTd2d1ROanRxWUNFZz0%3D@165.101.64.179:56047#MYANMAR%20Outline%20ALL%20SIM%20WIFI%20FREE%2003
-
-# thnetvpn.netlify -  MYANMAR Outline ALL SIM WIFI FREE 04 
-vmess://eyJhZGQiOiIxMDMuMTE0LjIwMy42NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxOGVlMDI2Ny0wYTQ4LTQ1ODUtYmRjMi02NGM1N2JlMDlmMzQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI2MjY3IiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIFZNRVNTLUZSRUUgMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-# thnetvpn.netlify -  MYANMAR Outline ALL SIM WIFI FREE 05 
-vmess://eyJhZGQiOiI0My4yMjkuMTM1LjE2MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1ZTNjZDcwNS0zOWJmLTRmYjMtOTMyOS02NWMwODlkZjliYmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzNjAyIiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIHZtc3NzIEZSRUUgMDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-# thnetvpn.netlify -  MYANMAR Outline ALL SIM WIFI FREE 06 
-vmess://eyJhZGQiOiIxNjUuMTAxLjY0LjE3OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmNjMxNzZhNC1iY2M5LTQ2ZDItZWI2YS00M2I3YzcyYWVlNzkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI0MTY1IiwicHMiOiJNWUFOTUFSIE91dGxpbmUgQUxMIFNJTSBXSUZJIFZNRVNTLUZSRUUgMDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-# Khinnainglin441 - Ais Play V2ray 01
-vless://e711485e-7060-4c74-abb9-8f5c818e755d@koko.kokovpn.site:8080?path=%2Fray&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-ko33
-
-# Khinnainglin441 - Ais Play V2ray 02
-vless://e711485e-7060-4c74-abb9-8f5c818e755d@koko.kokovpn.site:8080?path=%2Fray&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-ko33
-
-# Khinnainglin441 - Ais Play V2ray 03
-vless://22dc6938-3272-494c-bd46-99218abee8a8@koko2.kokodns.online:80?path=%2Fkokovpn&security=none&encryption=none&host=www.speedtest.net&type=ws#%F0%9F%94%B5%20AIS%20PLAY-ko33
-
-# Leo-200777 - TRUE ZooM VDO (10mbps)_01
-vless://84d218f2-7cae-4ef9-bfb2-1034c34903e8@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-01
-
-# Leo-200777 - TRUE ZooM VDO (10mbps)_02
-vless://6db20c63-4c6d-4302-84c2-3ead5c6a1e86@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-02
-
-# Leo-200777 - TRUE ZooM VDO (10mbps)_03
-vless://90582bea-6003-465d-a368-1466d1d2f07e@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-03
-
-# Leo-200777 - TRUE ZooM VDO (10mbps)_04
-vless://313c7113-d77e-40b3-8444-786f53657faf@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-04
-
-# Leo-200777 - TRUE ZooM VDO (10mbps)_05
-vless://31d47767-1e61-4d82-a516-b015fff71563@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-05
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_01
-vless://bc8d186f-69b7-491e-8dd7-3c6219b70a13@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-01
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_02
-vless://c4c5d180-a7fe-449e-aec8-e4974147ee49@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-02
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_03
-vless://2ebb28cb-9bc8-4910-b25d-f04d2297d1a5@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-03
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_04
-vless://237cbf32-0633-4422-97c1-7256943565a3@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-04
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_05
-vless://16db4ee8-ed10-4f05-a93e-ccb39936bc36@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-05
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_06
-vless://39cccabc-d16c-4ae8-9ed3-a8590fc7f54f@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-06
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_07
-vless://6983f5b7-ab69-4ec0-bebf-24589826a1f8@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-07
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_08
-vless://da80f6ad-7453-407f-bed8-097477b271ed@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-08
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_09
-vless://0752a448-8432-4aed-9770-4cfc018dd4ab@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-09
-
-# Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_10
-vless://461db357-6354-414d-8067-76695c562459@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-10
-
-# sathu200530 - Z-AIS1(MaxSpeed100+Mbps)
-vless://401467bf-a04b-4cd4-a6c2-185131d46937@zsathu8.sathu1.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais8-ais
-
-# sathu200530 - Z-AIS2(MaxSpeed100+Mbps)
-vless://9404fee4-bcf8-4fc0-b12c-de49949eb174@116.204.180.44:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais2-ais2
-
-# sathu200530 - Z-AIS3(MaxSpeed100+Mbps)
-vless://c853a902-bcf5-40b2-a16e-d47d8d0ffdc3@116.204.182.247:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais3-ais3
-
-# sathu200530 - Z-AIS4(MaxSpeed100+Mbps)
-vless://f1de8318-91ec-40fa-b2f3-05fb010d66d5@116.206.125.41:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais4-ais4
-
-# sathu200530 - Z-AIS5(MaxSpeed100+Mbps)
-vless://dec3182a-1e3e-4045-a2bb-7b75108fac94@116.206.124.140:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais5-ais5
-
-# sathu200530 - Z-AIS6(MaxSpeed100+Mbps)
-vless://cce24e6b-71dd-4759-8afa-8ac13f247ae8@zsathu7.sathu1.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais7-ais
-
-# JHKVPN - Ais play V2ray 01
-vless://e711485e-7060-4c74-abb9-8f5c818e755d@koko.kokovpn.site:8080?path=%2Fray&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-ko33
-
-# JHKVPN - Ais play V2ray 02
-vless://e711485e-7060-4c74-abb9-8f5c818e755d@koko.kokovpn.site:8080?path=%2Fray&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-ko33
-
-# JHKVPN - Ais play V2ray 03
-vless://22dc6938-3272-494c-bd46-99218abee8a8@ko01.kokovpn.site:80?path=%2Fkokovpn&security=&encryption=none&host=www.speedtest.net&type=ws#%F0%9F%94%B5%20AIS%20PLAY-ko33
-
-# JHKVPN - True Vdo V2ray Free 01
-vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imtva28ua29rb3Zwbi5zaXRlIiwiaWQiOiJjZWM3MjFiMi0zYzE4LTQ2YTgtOTUzZC1jYTU2ZDc5NjQyNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIva29rb3ZwbiIsInBvcnQiOiIyMDg2IiwicHMiOiJUUlVFLWtva28iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-# JHKVPN - True Vdo V2ray Free 02
-vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imtva28ua29rb3Zwbi5zaXRlIiwiaWQiOiJjZWM3MjFiMi0zYzE4LTQ2YTgtOTUzZC1jYTU2ZDc5NjQyNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIva29rb3ZwbiIsInBvcnQiOiIyMDg2IiwicHMiOiJUUlVFLWtva28iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-# JHKVPN - True Vdo V2ray Free 03
-vless://a1eb5027-31d9-4e03-9d97-0e22eca29e85@support.zoom.us:8880?path=%2Fphyoevpn&security=none&encryption=none&host=myomin3.yelinhtetnet.online&type=ws#185-193-%F0%9D%90%93%F0%9D%90%91%F0%9D%90%94%F0%9D%90%84-%F0%9D%90%95%F0%9D%90%83%F0%9D%90%8E
-
-# kindvpn - Ais64kbps V2ray 01 
-vless://0275c280-ef58-48c9-8f50-09751b65539c@kindvpn81.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-oafy0o3q
-
-# kindvpn - Ais64kbps V2ray 02 
-vless://7cd252cf-54b7-45c1-c92c-c7ab0918dda5@kind901.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-r3oj5zuv
-
-# kindvpn - Ais64kbps V2ray 03
-vless://996d0108-c497-4062-ee89-0cc82dbf2e85@kindvpn6.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#VIP5-z6how3w9
-
-# kindvpn - Ais 64kbps V2ray New (4)
-vless://34057102-c75a-4b32-c36a-ff8542a07b66@kind18.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#xgshhv1x
-
-# kindvpn - Ais 64kbps V2ray New (5)
-vless://43a2b026-7426-48e5-a483-b8ae166eca06@kind19.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#56ceurcz
-
-# kindvpn - Ais 64kbps V2ray New (6)
-vless://dc9bf172-5532-45ba-faef-a641efa8ffa8@kind901.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-64qw952y
-
-# kindvpn - Ais 64kbps V2ray New (7)
-vless://0275c280-ef58-48c9-8f50-09751b65539c@kindvpn81.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-oafy0o3q
-
-# kindvpn - Ais64kbps V2ray Game (8)
-vless://66bd442e-323e-4035-b51d-6deb7fd685c6@kindvpn5.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#VIP5-el0u1xdx
-
-# kindvpn - Myanmar All Sim Wifi (1)
-vless://a862b9b4-0225-47e7-838a-8e09f0190a1e@45.136.254.82:23131?type=tcp&encryption=none&security=none#Myanmar-sz26turi
-
-# kindvpn - Myanmar All Sim Wifi (2)
-vless://fea66ad9-3671-44f7-a5d0-9514325d29d6@45.136.254.87:53454?type=tcp&encryption=none&security=none#Myanmar-j9mpb6oy
-
-# kindvpn - Myanmar All Sim Wifi (3)
-vless://bbb60bf9-628d-473e-8f28-a989bb7ed87d@kind901.knlvpn.com:56837?type=tcp&encryption=none&security=none#Myanmar-x7q16ikh
-
-# ohm - Z-AIS01(สำหรับเล่นเกมส์)
-vless://d1293b3f-f382-49e1-ab0a-9418f027e7d2@116.204.181.209:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais1-play
-
-# ohm - Z-AIS02(สำหรับเล่นเกมส์)
-vless://984804d2-8205-42f4-998f-c50327c79e7e@116.204.183.68:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais2-play
-
-# ohm - Z-AIS03(สำหรับเล่นเกมส์)
-vless://d61ca806-f952-4178-9d55-d5743910ceb5@103.234.236.119:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais3-play
-
-# ohm - Z-AIS04(สำหรับเล่นเกมส์)
-vless://2be6c892-8807-49bd-ad4f-2879181461b3@103.234.236.146:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais4-play
-
-# ohm - Z-AIS05(สำหรับเล่นเกมส์)
-vless://775f1320-053e-4dc8-b4d1-221453cdcbff@103.234.236.147:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais5-play
-
-# ohm - Z-AIS06(MaxSpeed100+Mbps)
-vless://ac3b2493-2214-4b09-bd7e-9c33318080ea@v6.ohm1.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais6-ais
-
-# ohm - Z-AIS07(MaxSpeed100+Mbps)
-vless://485977cc-b331-4b9e-83ea-8c9f0c23504e@v7.ohm1.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais7-ais
-
-# ohm - Z-AIS08(MaxSpeed100+Mbps)
-vless://957f628a-47bb-419a-8e9d-8ef19c76023b@v8.ohm1.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais8-ais
-
-# ohm - Z-AIS09(MaxSpeed100+Mbps)
-vless://dacd94ba-c637-4a2b-a660-edef66fdf2db@v9.ohm1.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais9-ais
-
-# ohm - Z-AIS10(MaxSpeed100+Mbps)
-vless://1e65e48b-1717-4528-91f3-ca20cb1d5656@v10.ohm1.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais10-ais
-
-# svpn - US 1
-vmess://eyJhZGQiOiJzdnBudXMxLnNrc3Zwbi5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjai1zcGVlZHRlc3QuZWJiLm15IiwiaWQiOiJlYzJmNGFhNC01YzM2LTQ2NjgtOWE0YS04Y2JjM2JmOGUyZDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvbFBiQm9ZcHkvIiwicG9ydCI6IjgwODAiLCJwcyI6InVzIDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-# svpn - IN 1
-vmess://eyJhZGQiOiJzdnBuaW4xLnNrc3Zwbi5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjai1zcGVlZHRlc3QuZWJiLm15IiwiaWQiOiJlMjNjZGRlMC1mMTQ5LTQ0NjUtOWZlZi1lOGM0YzI1OWM3MWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQUVtaTNqMU8vIiwicG9ydCI6IjgwODAiLCJwcyI6ImluIDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
-# svpn - Thailand 1
-vmess://eyJhZGQiOiJzdnBuZnJlZTFtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjlkNWNmMzMwLWM0MTUtNGQ4YS04MTQ4LTJkM2M5NDdmNmMwMCIsIm5ldCI6IndzIiwicGF0aCI6Ii83alZkZzJIcS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSAxIG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# svpn - Thailand 2
-vmess://eyJhZGQiOiJzdnBuZnJlZTJtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjVjZTI5NjlhLTU2OWYtNGE3Yy1hYWYxLWI1NzAzMGRkNjRlZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9KRVBPTVVoVy8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSAyIG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# svpn - Thailand 3
-vmess://eyJhZGQiOiJzdnBuZnJlZTJtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjdhNDM3NDQ4LTY2NDUtNDZmNC1hODJjLTY0OTQ4MmRkZDFlMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9tSVNuUnAwTy8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSAzIG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# svpn - Thailand 4
-vmess://eyJhZGQiOiJzdnBuZnJlZTRtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImJkMjcxM2UxLTY0NDAtNGViMC1hNzQ5LTUyOTc0MWNjM2Q4MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9YNkE3Q2hrOS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA0IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# svpn - Thailand 5
-vmess://eyJhZGQiOiJzdnBuZnJlZTVtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjhmNjM0NWZhLWYxNDYtNGYzOS1iY2RjLWI4N2FkOWQyMTI0YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9LUlo1dHdrOC8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA1IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# svpn - Thailand 6
-vmess://eyJhZGQiOiJzdnBuZnJlZTZtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjY3ZTU2OTNiLWI4Y2MtNGQxYi1iZDg0LWMzMGI1MzFmNWNkZiIsIm5ldCI6IndzIiwicGF0aCI6Ii90aDRGTzVuZy8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA2IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# svpn - Thailand 7
-vmess://eyJhZGQiOiJzdnBuZnJlZTdtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImJkNWQwNWFiLWUwYzEtNDFhMS1hNzA5LTYyOWY2ZDY3MDM4ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8xaEx3cXBaby8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA3IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# svpn - Thailand 8
-vmess://eyJhZGQiOiJzdnBuZnJlZThtYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImMzNGRlYjg5LWFjN2UtNDA5Yy1hNWZmLTk3M2JjZTM5ZjFjYiIsIm5ldCI6IndzIiwicGF0aCI6Ii91Y0dWcUFqRS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA4IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# svpn - Thailand 9
-vmess://eyJhZGQiOiJzdnBuZnJlZTltYXIuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjM3ODJkNDFjLTVlZWItNGJiMC1hMDI5LTU2MDk0ZWYxMWU0YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9nNnZrajBMOS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA5IG1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-
-# svpn - Thailand 10
-vmess://eyJhZGQiOiJzdnBuZnJlZTEwbWFyLnNrc3Zwbi5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjai1zcGVlZHRlc3QuZWJiLm15IiwiaWQiOiJjMmE3MDlmNS1jYWEzLTQ5OTctYjc3NS04N2Y0ODEwMjU2N2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYUpJbVBZRUwvIiwicG9ydCI6IjgwODAiLCJwcyI6ImZyZWUgMTAgbWFyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-
+{
+  "Version": "11.9",
+  "Message": "⭐GOOD VPN🆙อัปเดตไฟล์ 04/04/26  #2👉แก้ไขระบบ🙏อย่าลืมให้คะแนนแอปด้วยนะครับ🌟ระบบOpen เน็ตไหลลื่น เล่นเกมส์ได้🌟ระบบSsh เน็ตแรง🌟ระบบSlowDNS สำหรับซิมดีแทค,ซิมMy",
+  "Servers": [
+    {
+      "Name": "AUTO-RANDOM",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "aa1.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-01(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat1.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-02(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat2.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-03(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat3.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-04(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat4.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-05(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat5.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-06(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat6.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-07(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat7.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-08(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat8.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-09(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat9.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-10(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat10.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-11(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat11.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-12(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat12.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-13(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat13.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-14(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat14.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-15(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat15.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-16(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat16.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-17(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat17.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-18(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat18.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-19(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat19.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-20(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat20.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-21(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat21.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-22(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat22.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-23(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat23.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-24(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat24.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-25(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat25.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-26(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat26.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-27(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat27.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-28(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat28.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-29(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat29.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-30(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat30.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-31(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat31.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-32(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat32.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-33(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat33.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-34(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat34.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-35(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat35.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-36(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat36.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-37(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat37.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-38(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat38.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-39(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat39.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-40(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat40.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-41(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat41.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-42(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat42.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-43(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat43.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-44(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat44.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "CAT-45(Open,Ssh)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "tmvh.co.cat45.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "client\ndev tun\nproto tcp\nsndbuf 0\nrcvbuf 0\nresolv-retry 5\nnobind\npersist-key\npersist-tun\nremote-cert-tls server\ncipher AES-256-CBC\ncomp-lzo yes\nsetenv opt block-outside-dns\nkey-direction 1\nverb 3\nauth-user-pass\nkeepalive 10 120\nfloat\n<ca>\n-----BEGIN CERTIFICATE-----\nMIIEzzCCA7egAwIBAgIJANKFZRXMc7qdMA0GCSqGSIb3DQEBCwUAMIGfMQswCQYD\nVQQGEwJUSDELMAkGA1UECBMCTksxEjAQBgNVBAcTCUlPRlZQTi1DQTESMBAGA1UE\nChMJSU9GVlBOLUNBMQ0wCwYDVQQLEwRIT01FMRUwEwYDVQQDEwxJT0ZWUE4tQ0Eg\nQ0ExDzANBgNVBCkTBklPRlZQTjEkMCIGCSqGSIb3DQEJARYVYWtrYXJhbml0LjlA\nZ21haWwuY29tMCAXDTIyMTEwNDE4MzgyOVoYDzMwMjIwMzA3MTgzODI5WjCBnzEL\nMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZWUE4tQ0ExEjAQ\nBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UEAxMMSU9GVlBO\nLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEWFWFra2FyYW5p\ndC45QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOhY\nbt7rcdBnMX4JM77XnssKrygBNBrR/tcQV2bgewZ0tiOyQrWaPCL3jWAqaIKlbA+m\nIjhgjePYnwADM5rAFxXQu6uX+Z3aXNMcHOj4qSLS9UTAbNAI/K1jSOAFV1ZamTzC\nWexgauOEHoJqjUzqcgTzgYsmsfb82DOs6tTFJlAg49bZ5hqyAZrgoIuIVXkMYcNl\nqDLAVfH0PDsHNxOA2kRc/YNgMLqYchFEDx2WuPbX0bSpTD1hM0NH0SHiUyGPUT/P\nrESAFKgUro3IPwLWO4FkC5NcDpS8/j1tJk5GJDfMXjFtIPjhWsTIHBBv+8TmP9Gu\n83vr19oDod0TtwfWD+MCAwEAAaOCAQgwggEEMB0GA1UdDgQWBBS685XSYeFjmZab\nbn1TufzbWy0S4DCB1AYDVR0jBIHMMIHJgBS685XSYeFjmZabbn1TufzbWy0S4KGB\npaSBojCBnzELMAkGA1UEBhMCVEgxCzAJBgNVBAgTAk5LMRIwEAYDVQQHEwlJT0ZW\nUE4tQ0ExEjAQBgNVBAoTCUlPRlZQTi1DQTENMAsGA1UECxMESE9NRTEVMBMGA1UE\nAxMMSU9GVlBOLUNBIENBMQ8wDQYDVQQpEwZJT0ZWUE4xJDAiBgkqhkiG9w0BCQEW\nFWFra2FyYW5pdC45QGdtYWlsLmNvbYIJANKFZRXMc7qdMAwGA1UdEwQFMAMBAf8w\nDQYJKoZIhvcNAQELBQADggEBABVr+hcTBiHe1Ttgzf+wVijSuIYVaPj8uvIeQbZX\n8598B9ehGWYw3OJaaGXjA2jzUlDDrySXiqANX1EYI87tUhbnoxytH8t6kIJiVFAF\nx0qoV2oNnWkvTPd6nggnuqNkAZyep13ugvn4tzn9uwP5xZJ4egHvriAqZUXZa/Z7\natj2HkDzh3e9X09KQtfAeSTvJ+W58KHumdSecpXBHm4o+uo0R0L5vCGqgEqGqeMX\n9l2IQMLP9nfTCRlPiNobly+6ikebNqA1spLZOIzrZLABin+5HIAZqQ7W0pn44I1l\nUA1uJa/KhwyEXOA7hWqL8gaKqIkIKcXZq2bS8YqZBS3wZ7c=\n-----END CERTIFICATE-----\n</ca>",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "My-NOPRO-01(SlowDNS)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "slow1.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "slow1.itimaek.online",
+      "PublicKey": "526bac803bbb09f19a36ea3e424c62c00f72e0e33308ac3e18dd1d3589d53b71",
+      "ServerDNS": "slow1.itimaek.online",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "My-NOPRO-02(SlowDNS)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "slow2.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "slow2.itimaek.online",
+      "PublicKey": "526bac803bbb09f19a36ea3e424c62c00f72e0e33308ac3e18dd1d3589d53b71",
+      "ServerDNS": "slow2.itimaek.online",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "My-NOPRO-03(SlowDNS)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "slow3.itimaek.online",
+      "TCPPort": "1194",
+      "SSHPort": "143",
+      "SSLPort": "443",
+      "NameServer": "slow3.itimaek.online",
+      "PublicKey": "526bac803bbb09f19a36ea3e424c62c00f72e0e33308ac3e18dd1d3589d53b71",
+      "ServerDNS": "slow3.itimaek.online",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "aekvpn",
+      "Password": "aekvpn",
+      "MultiCert": "true",
+      "OvpnCertificate": "",
+      "V2Ray": "",
+      "UDPConfig": "",
+      "SelectType": "Default"
+    },
+    {
+      "Name": "Z-AIS1(MaxSpeed100+Mbps)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "",
+      "TCPPort": "",
+      "SSHPort": "",
+      "SSLPort": "",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "",
+      "Password": "",
+      "MultiCert": "true",
+      "OvpnCertificate": "",
+      "V2Ray": "vless://80b12492-5274-4a6e-9283-a32b397d94a7@116.204.183.126:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais1-ais1",
+      "UDPConfig": "",
+      "SelectType": "V2Ray"
+    },
+    {
+      "Name": "Z-AIS2(MaxSpeed100+Mbps)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "",
+      "TCPPort": "",
+      "SSHPort": "",
+      "SSLPort": "",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "",
+      "Password": "",
+      "MultiCert": "true",
+      "OvpnCertificate": "",
+      "V2Ray": "vless://25b7bf0a-da0a-4c57-9fef-315d857c3587@116.204.181.186:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais3-ais3",
+      "UDPConfig": "",
+      "SelectType": "V2Ray"
+    },
+    {
+      "Name": "Z-AIS3(MaxSpeed100+Mbps)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "",
+      "TCPPort": "",
+      "SSHPort": "",
+      "SSLPort": "",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "",
+      "Password": "",
+      "MultiCert": "true",
+      "OvpnCertificate": "",
+      "V2Ray": "vless://ce8eb32c-148b-470e-9f15-b6c01b0129ad@116.204.183.176:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais4-ais4",
+      "UDPConfig": "",
+      "SelectType": "V2Ray"
+    },
+    {
+      "Name": "Z-AIS4(MaxSpeed100+Mbps)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "",
+      "TCPPort": "",
+      "SSHPort": "",
+      "SSLPort": "",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "",
+      "Password": "",
+      "MultiCert": "true",
+      "OvpnCertificate": "",
+      "V2Ray": "vless://5c73d60c-9d32-4b3b-aaf8-f8c5ad413f29@103.169.67.58:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais2-ais2",
+      "UDPConfig": "",
+      "SelectType": "V2Ray"
+    },
+    {
+      "Name": "Z-AIS5(MaxSpeed100+Mbps)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "",
+      "TCPPort": "",
+      "SSHPort": "",
+      "SSLPort": "",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "",
+      "Password": "",
+      "MultiCert": "true",
+      "OvpnCertificate": "",
+      "V2Ray": "vless://ee4ece15-22df-41c0-a7e7-dc2b3df7ebc0@103.169.67.254:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais5-ais5",
+      "UDPConfig": "",
+      "SelectType": "V2Ray"
+    },
+    {
+      "Name": "Z-AIS6(MaxSpeed100+Mbps)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "",
+      "TCPPort": "",
+      "SSHPort": "",
+      "SSLPort": "",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "",
+      "Password": "",
+      "MultiCert": "true",
+      "OvpnCertificate": "",
+      "V2Ray": "vless://b3035a9c-0bcb-4073-ae6b-47d154d92f50@zgood6.itimaek.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais6-ais",
+      "UDPConfig": "",
+      "SelectType": "V2Ray"
+    },
+    {
+      "Name": "Z-AIS7(MaxSpeed100+Mbps)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "",
+      "TCPPort": "",
+      "SSHPort": "",
+      "SSLPort": "",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "",
+      "Password": "",
+      "MultiCert": "true",
+      "OvpnCertificate": "",
+      "V2Ray": "vless://01382ef9-8ef0-4a63-91c8-d9e526b7c198@zgood7.itimaek.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais7-ais",
+      "UDPConfig": "",
+      "SelectType": "V2Ray"
+    },
+    {
+      "Name": "Z-AIS8(MaxSpeed100+Mbps)",
+      "Info": "",
+      "Flag": "th",
+      "ServerIP": "",
+      "TCPPort": "",
+      "SSHPort": "",
+      "SSLPort": "",
+      "NameServer": "",
+      "PublicKey": "",
+      "ServerDNS": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "AutoLogIn": "true",
+      "Username": "",
+      "Password": "",
+      "MultiCert": "true",
+      "OvpnCertificate": "",
+      "V2Ray": "vless://b0df34af-ba5b-4bd3-9401-66362623ac1f@zgood8.itimaek.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais8-ais",
+      "UDPConfig": "",
+      "SelectType": "V2Ray"
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "📱AIS-เน็ตกันรั่ว128K(SSL)",
+      "Flag": "",
+      "Info": "📞กด*777*7068# 33บาท 30วัน(100Mbps)🚀",
+      "Sni": "speedtest.net",
+      "Payload": "",
+      "AutoReplace": "false",
+      "UseDefProxy": "false",
+      "SquidProxy": "",
+      "SquidPort": "",
+      "SSLPort": "",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": "",
+      "SelectedProtocal": "SSL SNI",
+      "Protocal": "OVPN"
+    },
+    {
+      "Name": "📱DTAC-GAMING(Ssh)",
+      "Flag": "",
+      "Info": "📞สมัครได้ในแอปดีแทค(100Mbps)🚀",
+      "Sni": "",
+      "Payload": "CONNECT / HTTP/1.1\\r\\nHost: dl.dir.freefiremobile.com\\r\\n\\r\\nCF-RAY / HTTP/1.1\\r\\nHost: [host]\\r\\nUpgrade: [ua]\\r\\n\\r\\n",
+      "AutoReplace": "false",
+      "UseDefProxy": "false",
+      "SquidProxy": "dtacgaming.itimaek.online",
+      "SquidPort": "80",
+      "SSLPort": "",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": "",
+      "SelectedProtocal": "HTTP Proxy",
+      "Protocal": "SSH"
+    },
+    {
+      "Name": "📱TRUE-Twitter(Ssh)",
+      "Flag": "",
+      "Info": "📞กด*900*3509# 53บาท 30วัน(100Mbps)🚀",
+      "Sni": "",
+      "Payload": "POST / HTTP/1.1\\r\\nHost: api.x.com\\r\\nUser-Agent: [ua]\\r\\n\\r\\n[split]\\rPATCH / HTTP/1.1\\r\\nHost: [host]\\r\\nUpgrade: websocket\\r\\nConnection: Upgrade\\r\\n\\r\\n",
+      "AutoReplace": "false",
+      "UseDefProxy": "false",
+      "SquidProxy": "api.x.com",
+      "SquidPort": "80",
+      "SSLPort": "",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": "",
+      "SelectedProtocal": "HTTP Proxy",
+      "Protocal": "SSH"
+    },
+    {
+      "Name": "📱TRUE-โปรเรียนฟรี(Open)🎮",
+      "Flag": "",
+      "Info": "📞กด*900*8234# 81บาท 30วัน(10Mbps)",
+      "Sni": "",
+      "Payload": "GET / HTTP/1.1\\r\\nHost: [host]\\r\\nUpgrade: websocket\\r\\n\\r\\n",
+      "AutoReplace": "false",
+      "UseDefProxy": "false",
+      "SquidProxy": "atrue.ohm1.online",
+      "SquidPort": "2086",
+      "SSLPort": "",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": "",
+      "SelectedProtocal": "HTTP Proxy",
+      "Protocal": "OVPN"
+    },
+    {
+      "Name": "🔴TRUE-ESPORT(Open)",
+      "Flag": "",
+      "Info": "MaxSpeed100Mbps(เล่นเกมส์ได้)",
+      "Sni": "z-m-static.xx.fbcdn.net",
+      "Payload": "",
+      "AutoReplace": "false",
+      "UseDefProxy": "false",
+      "SquidProxy": "",
+      "SquidPort": "",
+      "SSLPort": "",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": "",
+      "SelectedProtocal": "SSL SNI",
+      "Protocal": "OVPN"
+    },
+    {
+      "Name": "🔴TRUE-TrueID(Ssh)",
+      "Flag": "",
+      "Info": "📞สมัครได้ในแอปTrueID(100Mbps)",
+      "Sni": "",
+      "Payload": "GET / HTTP/1.1\\r\\nHost: creators.trueid.net\\r\\n\\r\\nCF-RAY / HTTP/1.1\\r\\nHost: [host]\\r\\nUpgrade: [ua]\\r\\n\\r\\n",
+      "AutoReplace": "false",
+      "UseDefProxy": "false",
+      "SquidProxy": "creators.trueid.net",
+      "SquidPort": "80",
+      "SSLPort": "",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": "",
+      "SelectedProtocal": "HTTP Proxy",
+      "Protocal": "SSH"
+    },
+    {
+      "Name": "🔴TRUE-Twitter(Ssh)",
+      "Flag": "",
+      "Info": "📞กด*900*3509# 53บาท 30วัน(4Mbps)",
+      "Sni": "",
+      "Payload": "CONNECT / HTTP/1.1[crlf]Host: mobile.x.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host:[host][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "AutoReplace": "false",
+      "UseDefProxy": "false",
+      "SquidProxy": "mobile.x.com",
+      "SquidPort": "80",
+      "SSLPort": "",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": "",
+      "SelectedProtocal": "HTTP Proxy",
+      "Protocal": "SSH"
+    },
+    {
+      "Name": "🔴TRUE-Viber(Open)",
+      "Flag": "",
+      "Info": "📞กด*900#*3809# 53บาท 30วัน",
+      "Sni": "",
+      "Payload": "GET / HTTP/1.1\\nHost: [host]\\nHost: lp.viber.com\\nUpgrade: websocket\\nConnection: Upgrade\\r\\n\\r\\n",
+      "AutoReplace": "false",
+      "UseDefProxy": "false",
+      "SquidProxy": "lp.viber.com",
+      "SquidPort": "2086",
+      "SSLPort": "",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": "",
+      "SelectedProtocal": "HTTP Proxy",
+      "Protocal": "OVPN"
+    },
+    {
+      "Name": "🔴TRUE-Viber(Ssh)",
+      "Flag": "",
+      "Info": "📞กด*900#*3809# 53บาท 30วัน",
+      "Sni": "",
+      "Payload": "CONNECT / HTTP/1.1[crlf]Host: lp.viber.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host:[host][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "AutoReplace": "false",
+      "UseDefProxy": "false",
+      "SquidProxy": "lp.viber.com",
+      "SquidPort": "80",
+      "SSLPort": "",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": "",
+      "SelectedProtocal": "HTTP Proxy",
+      "Protocal": "SSH"
+    },
+    {
+      "Name": "🔴TRUE-โปรเรียนฟรี(Ssh)",
+      "Flag": "",
+      "Info": "📞กด*900*8234# 81บาท 30วัน(10Mbps)",
+      "Sni": "",
+      "Payload": "CONNECT / HTTP/1.1[crlf]Host: cdn-cf.zoom.us[crlf][crlf]PATCH / HTTP/1.1[crlf]Host:[host][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "AutoReplace": "false",
+      "UseDefProxy": "false",
+      "SquidProxy": "cdn-cf.zoom.us",
+      "SquidPort": "80",
+      "SSLPort": "",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": "",
+      "SelectedProtocal": "HTTP Proxy",
+      "Protocal": "SSH"
+    },
+    {
+      "Name": "🔵DTAC-SOCIAL(Ssh)",
+      "Flag": "",
+      "Info": "📞สมัครได้ในแอปดีแทค(100Mbps)🚀",
+      "Sni": "",
+      "Payload": "CONNECT / HTTP/1.1\\r\\nHost: help.twitter.com\\r\\n\\r\\nCF-RAY / HTTP/1.1\\r\\nHost: [host]\\r\\nUpgrade: [ua]\\r\\n\\r\\n",
+      "AutoReplace": "false",
+      "UseDefProxy": "false",
+      "SquidProxy": "help.twitter.com",
+      "SquidPort": "80",
+      "SSLPort": "",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": "",
+      "SelectedProtocal": "HTTP Proxy",
+      "Protocal": "SSH"
+    },
+    {
+      "Name": "🔵DTAC-TrueID(Ssh)",
+      "Flag": "",
+      "Info": "📞สมัครได้ในแอปดีแทค(100Mbps)",
+      "Sni": "",
+      "Payload": "GET / HTTP/1.1\\r\\nHost: creators.trueid.net\\r\\n\\r\\nCF-RAY / HTTP/1.1\\r\\nHost: [host]\\r\\nUpgrade: [ua]\\r\\n\\r\\n",
+      "AutoReplace": "false",
+      "UseDefProxy": "false",
+      "SquidProxy": "creators.trueid.net",
+      "SquidPort": "80",
+      "SSLPort": "",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": "",
+      "SelectedProtocal": "HTTP Proxy",
+      "Protocal": "SSH"
+    },
+    {
+      "Name": "🟠MY-NOPRO(SlowDNS)",
+      "Flag": "",
+      "Info": "MaxSpeed15Mbps",
+      "Sni": "",
+      "Payload": "",
+      "AutoReplace": "false",
+      "UseDefProxy": "false",
+      "SquidProxy": "",
+      "SquidPort": "",
+      "SSLPort": "",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": "",
+      "SelectedProtocal": "SlowDNS",
+      "Protocal": "OVPN"
+    },
+    {
+      "Name": "🟢AIS-เน็ตกันรั่ว128K(Open)🎮",
+      "Flag": "",
+      "Info": "📞กด*777*7068# 33บาท 30วัน(100Mbps)🚀",
+      "Sni": "www.speedtest.net",
+      "Payload": "GET / HTTP/1.1\\r\\nHost: [host]\\r\\nUpgrade: websocket\\r\\n\\r\\n",
+      "AutoReplace": "false",
+      "UseDefProxy": "false",
+      "SquidProxy": "www.speedtest.net",
+      "SquidPort": "2086",
+      "SSLPort": "",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": "",
+      "SelectedProtocal": "HTTP Proxy",
+      "Protocal": "OVPN"
+    }
+  ],
+  "setOpenVPN": ""
+}

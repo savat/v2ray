@@ -1,3 +1,54 @@
+# PhyoeVPN - -01
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDEua29waHlvZS5vbmxpbmUiLCJpZCI6IjM4NjBkM2I1LWUwMzMtNGNjNy05MTk4LWY5MzU0N2Y3MjZjMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODg4MCIsInBzIjoiMTAzLTI1MS04ODgwLVBoeW9lVkRPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# PhyoeVPN - -02
+vless://d8915b4a-58c4-4770-c0e3-4d4b20902783@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=mmt2.kophyoe.online&type=ws#103-252-80-TRUEVDO-PHYOE
+
+# PhyoeVPN - -03
+vless://ce27f7cf-e904-4d97-edea-c8b837cc173c@support.zoom.us:80?path=%2Fvless&security=&encryption=none&host=mmt4.kophyoe.online&type=ws#185-193-80-PHYOE-VDO
+
+# PhyoeVPN - -04
+vless://ee2ccead-da95-440b-9c56-6b09f79f2161@support.zoom.us:8880?path=%2F&security=none&encryption=none&host=mmt6.kophyoe.online&type=ws#43-97-PhyoeVPN-VDO
+
+# PhyoeVPN - -05
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDUua29waHlvZS5vbmxpbmUiLCJpZCI6IjdhNDM3ODRkLTAwYjQtNDg3My1iMmNlLTEwODA2MmY0ZjkzNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IjQzLTE1NC1QaHlvZVZQTi1WRE8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# PhyoeVPN - -06
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJhbWFyLmtvcGh5b2Uub25saW5lIiwiaWQiOiJiM2JhOWVlMy05NjdiLTRmOWMtZTg2OC1jNDVlZWUyMGYwZjIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvTU1UVlBOIiwicG9ydCI6IjgwIiwicHMiOiIxMDMtMTMwLTgwLVBoeW9lVkRPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# PhyoeVPN - -01
+vmess://eyJhZGQiOiJtbXQxLmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiOWU4MmE4MTQtZDQ3MC00ZGM5LWEyM2YtMzlmMTIwYzdiZTQ0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL01NVFZQTiIsInBvcnQiOiI4ODgwIiwicHMiOiIxMDMtMjUxLTg4ODAtUGh5b2VBSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# PhyoeVPN - -02
+vless://4d91e443-599a-4172-aa15-4fbf7f0c6e1f@mmt2.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#103-252-80-AIS-PHYOE
+
+# PhyoeVPN - -03
+vless://07cd6a84-e8a3-49a8-a66c-b777a94f4625@mmt6.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#43-97-Ais-PhyoeVPN-80
+
+# PhyoeVPN - -04
+vmess://eyJhZGQiOiJtbXQ1LmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiOTkzMGM0OGQtM2QzMS00ZDEwLThkNmItOTkzNWM4MTAwODg3IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiNDMtMTU0LVBoeW9lVlBOLUFJUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# PhyoeVPN - -05
+vless://e48ec9ff-b07d-42e0-f59f-66f91f27ef20@mmt4.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#185-193-80-PHYOE-AIS
+
+# PhyoeVPN - -06
+vmess://eyJhZGQiOiJiYW1hci5rb3BoeW9lLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImFjNGFmMDdhLTdlMWEtNGUxNC1mNDMyLTk4ZGIwMDRmMTZjYyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODAiLCJwcyI6IjEwMy0xMzAtODAtUGh5b2VBSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# PhyoeVPN - -01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTk1NN29pWEJ6bDBLQ0tadkJjL3BGUmhFVjFzZXdLZWNwNWVSTzhvUzB3PQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-PhyoeMM
+
+# PhyoeVPN - -02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTk1NN29pWEJ6bDBLQ0tadkJjL3BGUmhFVjFzZXdLZWNwNWVSTzhvUzB3PQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-PhyoeMM
+
+# PhyoeVPN - -03
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTk1NN29pWEJ6bDBLQ0tadkJjL3BGUmhFVjFzZXdLZWNwNWVSTzhvUzB3PQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-PhyoeMM
+
+# PhyoeVPN - -04
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTk1NN29pWEJ6bDBLQ0tadkJjL3BGUmhFVjFzZXdLZWNwNWVSTzhvUzB3PQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-PhyoeMM
+
+# PhyoeVPN - -05
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTk1NN29pWEJ6bDBLQ0tadkJjL3BGUmhFVjFzZXdLZWNwNWVSTzhvUzB3PQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-PhyoeMM
+
 # goodvpn - Z-AIS1(MaxSpeed100+Mbps)
 vless://80b12492-5274-4a6e-9283-a32b397d94a7@116.204.183.126:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais1-ais1
 
@@ -286,6 +337,57 @@ vless://1aee1c44-8312-4816-8882-2c0707e02a8c@support.zoom.us:80?path=%2Fpongtai&
 # aluya20 - 🟥TRUE VDO 03
 vless://ed5acba8-6dcd-4ab1-939a-1af054599d86@support.zoom.us:80?path=%2Fpongtai&security=none&encryption=none&host=v3.mister-chills.uk&type=ws#truevideo%20v3
 
+# PhyoeVPN - -01
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDEua29waHlvZS5vbmxpbmUiLCJpZCI6IjM4NjBkM2I1LWUwMzMtNGNjNy05MTk4LWY5MzU0N2Y3MjZjMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODg4MCIsInBzIjoiMTAzLTI1MS04ODgwLVBoeW9lVkRPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# PhyoeVPN - -02
+vless://d8915b4a-58c4-4770-c0e3-4d4b20902783@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=mmt2.kophyoe.online&type=ws#103-252-80-TRUEVDO-PHYOE
+
+# PhyoeVPN - -03
+vless://ce27f7cf-e904-4d97-edea-c8b837cc173c@support.zoom.us:80?path=%2Fvless&security=&encryption=none&host=mmt4.kophyoe.online&type=ws#185-193-80-PHYOE-VDO
+
+# PhyoeVPN - -04
+vless://ee2ccead-da95-440b-9c56-6b09f79f2161@support.zoom.us:8880?path=%2F&security=none&encryption=none&host=mmt6.kophyoe.online&type=ws#43-97-PhyoeVPN-VDO
+
+# PhyoeVPN - -05
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDUua29waHlvZS5vbmxpbmUiLCJpZCI6IjdhNDM3ODRkLTAwYjQtNDg3My1iMmNlLTEwODA2MmY0ZjkzNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IjQzLTE1NC1QaHlvZVZQTi1WRE8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# PhyoeVPN - -06
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJhbWFyLmtvcGh5b2Uub25saW5lIiwiaWQiOiJiM2JhOWVlMy05NjdiLTRmOWMtZTg2OC1jNDVlZWUyMGYwZjIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvTU1UVlBOIiwicG9ydCI6IjgwIiwicHMiOiIxMDMtMTMwLTgwLVBoeW9lVkRPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# PhyoeVPN - -01
+vmess://eyJhZGQiOiJtbXQxLmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiOWU4MmE4MTQtZDQ3MC00ZGM5LWEyM2YtMzlmMTIwYzdiZTQ0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL01NVFZQTiIsInBvcnQiOiI4ODgwIiwicHMiOiIxMDMtMjUxLTg4ODAtUGh5b2VBSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# PhyoeVPN - -02
+vless://4d91e443-599a-4172-aa15-4fbf7f0c6e1f@mmt2.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#103-252-80-AIS-PHYOE
+
+# PhyoeVPN - -03
+vless://07cd6a84-e8a3-49a8-a66c-b777a94f4625@mmt6.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#43-97-Ais-PhyoeVPN-80
+
+# PhyoeVPN - -04
+vmess://eyJhZGQiOiJtbXQ1LmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiOTkzMGM0OGQtM2QzMS00ZDEwLThkNmItOTkzNWM4MTAwODg3IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiNDMtMTU0LVBoeW9lVlBOLUFJUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# PhyoeVPN - -05
+vless://e48ec9ff-b07d-42e0-f59f-66f91f27ef20@mmt4.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#185-193-80-PHYOE-AIS
+
+# PhyoeVPN - -06
+vmess://eyJhZGQiOiJiYW1hci5rb3BoeW9lLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImFjNGFmMDdhLTdlMWEtNGUxNC1mNDMyLTk4ZGIwMDRmMTZjYyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODAiLCJwcyI6IjEwMy0xMzAtODAtUGh5b2VBSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# PhyoeVPN - -01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTk1NN29pWEJ6bDBLQ0tadkJjL3BGUmhFVjFzZXdLZWNwNWVSTzhvUzB3PQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-PhyoeMM
+
+# PhyoeVPN - -02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTk1NN29pWEJ6bDBLQ0tadkJjL3BGUmhFVjFzZXdLZWNwNWVSTzhvUzB3PQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-PhyoeMM
+
+# PhyoeVPN - -03
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTk1NN29pWEJ6bDBLQ0tadkJjL3BGUmhFVjFzZXdLZWNwNWVSTzhvUzB3PQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-PhyoeMM
+
+# PhyoeVPN - -04
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTk1NN29pWEJ6bDBLQ0tadkJjL3BGUmhFVjFzZXdLZWNwNWVSTzhvUzB3PQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-PhyoeMM
+
+# PhyoeVPN - -05
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTk1NN29pWEJ6bDBLQ0tadkJjL3BGUmhFVjFzZXdLZWNwNWVSTzhvUzB3PQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-PhyoeMM
+
 # hwvpnprofreevip2026 - Server Ais Free 01
 vless://4a559b18-18a4-4b09-e1f2-b3ea2ee84770@141.98.18.12:8080?type=ws&encryption=none&path=%2F&host=&security=none#Free
 
@@ -457,6 +559,57 @@ vless://e711485e-7060-4c74-abb9-8f5c818e755d@koko.kokovpn.site:8080?path=%2Fray&
 # Khinnainglin441 - Ais Play V2ray 03
 vless://22dc6938-3272-494c-bd46-99218abee8a8@koko2.kokodns.online:80?path=%2Fkokovpn&security=none&encryption=none&host=www.speedtest.net&type=ws#%F0%9F%94%B5%20AIS%20PLAY-ko33
 
+# PhyoeVPN - -01
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDEua29waHlvZS5vbmxpbmUiLCJpZCI6IjM4NjBkM2I1LWUwMzMtNGNjNy05MTk4LWY5MzU0N2Y3MjZjMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODg4MCIsInBzIjoiMTAzLTI1MS04ODgwLVBoeW9lVkRPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# PhyoeVPN - -02
+vless://d8915b4a-58c4-4770-c0e3-4d4b20902783@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=mmt2.kophyoe.online&type=ws#103-252-80-TRUEVDO-PHYOE
+
+# PhyoeVPN - -03
+vless://ce27f7cf-e904-4d97-edea-c8b837cc173c@support.zoom.us:80?path=%2Fvless&security=&encryption=none&host=mmt4.kophyoe.online&type=ws#185-193-80-PHYOE-VDO
+
+# PhyoeVPN - -04
+vless://ee2ccead-da95-440b-9c56-6b09f79f2161@support.zoom.us:8880?path=%2F&security=none&encryption=none&host=mmt6.kophyoe.online&type=ws#43-97-PhyoeVPN-VDO
+
+# PhyoeVPN - -05
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDUua29waHlvZS5vbmxpbmUiLCJpZCI6IjdhNDM3ODRkLTAwYjQtNDg3My1iMmNlLTEwODA2MmY0ZjkzNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IjQzLTE1NC1QaHlvZVZQTi1WRE8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# PhyoeVPN - -06
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJhbWFyLmtvcGh5b2Uub25saW5lIiwiaWQiOiJiM2JhOWVlMy05NjdiLTRmOWMtZTg2OC1jNDVlZWUyMGYwZjIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvTU1UVlBOIiwicG9ydCI6IjgwIiwicHMiOiIxMDMtMTMwLTgwLVBoeW9lVkRPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# PhyoeVPN - -01
+vmess://eyJhZGQiOiJtbXQxLmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiOWU4MmE4MTQtZDQ3MC00ZGM5LWEyM2YtMzlmMTIwYzdiZTQ0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL01NVFZQTiIsInBvcnQiOiI4ODgwIiwicHMiOiIxMDMtMjUxLTg4ODAtUGh5b2VBSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# PhyoeVPN - -02
+vless://4d91e443-599a-4172-aa15-4fbf7f0c6e1f@mmt2.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#103-252-80-AIS-PHYOE
+
+# PhyoeVPN - -03
+vless://07cd6a84-e8a3-49a8-a66c-b777a94f4625@mmt6.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#43-97-Ais-PhyoeVPN-80
+
+# PhyoeVPN - -04
+vmess://eyJhZGQiOiJtbXQ1LmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiOTkzMGM0OGQtM2QzMS00ZDEwLThkNmItOTkzNWM4MTAwODg3IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiNDMtMTU0LVBoeW9lVlBOLUFJUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# PhyoeVPN - -05
+vless://e48ec9ff-b07d-42e0-f59f-66f91f27ef20@mmt4.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#185-193-80-PHYOE-AIS
+
+# PhyoeVPN - -06
+vmess://eyJhZGQiOiJiYW1hci5rb3BoeW9lLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImFjNGFmMDdhLTdlMWEtNGUxNC1mNDMyLTk4ZGIwMDRmMTZjYyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODAiLCJwcyI6IjEwMy0xMzAtODAtUGh5b2VBSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# PhyoeVPN - -01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTk1NN29pWEJ6bDBLQ0tadkJjL3BGUmhFVjFzZXdLZWNwNWVSTzhvUzB3PQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-PhyoeMM
+
+# PhyoeVPN - -02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTk1NN29pWEJ6bDBLQ0tadkJjL3BGUmhFVjFzZXdLZWNwNWVSTzhvUzB3PQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-PhyoeMM
+
+# PhyoeVPN - -03
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTk1NN29pWEJ6bDBLQ0tadkJjL3BGUmhFVjFzZXdLZWNwNWVSTzhvUzB3PQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-PhyoeMM
+
+# PhyoeVPN - -04
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTk1NN29pWEJ6bDBLQ0tadkJjL3BGUmhFVjFzZXdLZWNwNWVSTzhvUzB3PQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-PhyoeMM
+
+# PhyoeVPN - -05
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTk1NN29pWEJ6bDBLQ0tadkJjL3BGUmhFVjFzZXdLZWNwNWVSTzhvUzB3PQ%3D%3D@bamar.kophyoe.online:8443#Myanmar-PhyoeMM
+
 # Leo-200777 - TRUE ZooM VDO (10mbps)_01
 vless://84d218f2-7cae-4ef9-bfb2-1034c34903e8@support.zoom.us:2052?path=%2Fvanovpn&security=&encryption=none&host=server.th-vano-vpn.online&type=ws#Zoom-TH-01
 
@@ -502,22 +655,22 @@ vless://0752a448-8432-4aed-9770-4cfc018dd4ab@server.th-vano-vpn.online:443?path=
 # Leo-200777 - AIS ต้องมีโปรกันรั่ว 64kb_10
 vless://461db357-6354-414d-8067-76695c562459@server.th-vano-vpn.online:443?path=%2Fvanovpn&security=&encryption=none&host=speedtest.net&type=ws#AIS-TH-10
 
-# sathu200530 - Z-AIS1(MaxSpeed100+Mbps)
+# sathu200530 - Z-AIS1-เล่นเกมส์ได้(100Mbps)🟢
 vless://401467bf-a04b-4cd4-a6c2-185131d46937@zsathu8.sathu1.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais8-ais
 
-# sathu200530 - Z-AIS2(MaxSpeed100+Mbps)
+# sathu200530 - Z-AIS2-เล่นเกมส์ได้(100Mbps)🟢
 vless://9404fee4-bcf8-4fc0-b12c-de49949eb174@116.204.180.44:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais2-ais2
 
-# sathu200530 - Z-AIS3(MaxSpeed100+Mbps)
+# sathu200530 - Z-AIS3-เล่นเกมส์ได้(100Mbps)🟢
 vless://c853a902-bcf5-40b2-a16e-d47d8d0ffdc3@116.204.182.247:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais3-ais3
 
-# sathu200530 - Z-AIS4(MaxSpeed100+Mbps)
+# sathu200530 - Z-AIS4-เล่นเกมส์ได้(100Mbps)🟢
 vless://f1de8318-91ec-40fa-b2f3-05fb010d66d5@116.206.125.41:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais4-ais4
 
-# sathu200530 - Z-AIS5(MaxSpeed100+Mbps)
+# sathu200530 - Z-AIS5-เล่นเกมส์ได้(100Mbps)🟢
 vless://dec3182a-1e3e-4045-a2bb-7b75108fac94@116.206.124.140:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais5-ais5
 
-# sathu200530 - Z-AIS6(MaxSpeed100+Mbps)
+# sathu200530 - Z-AIS6-เล่นเกมส์ได้(100Mbps)🟢
 vless://cce24e6b-71dd-4759-8afa-8ac13f247ae8@zsathu7.sathu1.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais7-ais
 
 # JHKVPN - Ais play V2ray 01
@@ -539,13 +692,13 @@ vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vless://a1eb5027-31d9-4e03-9d97-0e22eca29e85@support.zoom.us:8880?path=%2Fphyoevpn&security=none&encryption=none&host=myomin3.yelinhtetnet.online&type=ws#185-193-%F0%9D%90%93%F0%9D%90%91%F0%9D%90%94%F0%9D%90%84-%F0%9D%90%95%F0%9D%90%83%F0%9D%90%8E
 
 # kindvpn - Ais64kbps V2ray 01 
-vless://0275c280-ef58-48c9-8f50-09751b65539c@kindvpn81.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-oafy0o3q
+vless://34e63864-8681-4c7e-ae40-23014471aeb1@kindvpn913.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-3o0rxfrm
 
 # kindvpn - Ais64kbps V2ray 02 
-vless://7cd252cf-54b7-45c1-c92c-c7ab0918dda5@kind901.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-r3oj5zuv
+vless://d4138409-1902-4294-e060-c25108655282@kindvpn913.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-6uh9uq63
 
 # kindvpn - Ais64kbps V2ray 03
-vless://996d0108-c497-4062-ee89-0cc82dbf2e85@kindvpn6.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#VIP5-z6how3w9
+vless://10988846-09db-4553-ec63-4c0e8c2166f7@kindvpn5.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-n8pibith
 
 # kindvpn - Ais 64kbps V2ray New (4)
 vless://34057102-c75a-4b32-c36a-ff8542a07b66@kind18.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#xgshhv1x
@@ -557,10 +710,10 @@ vless://43a2b026-7426-48e5-a483-b8ae166eca06@kind19.knlvpn.com:8080?path=%2F&sec
 vless://dc9bf172-5532-45ba-faef-a641efa8ffa8@kind901.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-64qw952y
 
 # kindvpn - Ais 64kbps V2ray New (7)
-vless://0275c280-ef58-48c9-8f50-09751b65539c@kindvpn81.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-oafy0o3q
+vless://d4138409-1902-4294-e060-c25108655282@kindvpn913.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-6uh9uq63
 
 # kindvpn - Ais64kbps V2ray Game (8)
-vless://66bd442e-323e-4035-b51d-6deb7fd685c6@kindvpn5.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#VIP5-el0u1xdx
+vless://d4138409-1902-4294-e060-c25108655282@kindvpn913.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-6uh9uq63
 
 # kindvpn - Myanmar All Sim Wifi (1)
 vless://a862b9b4-0225-47e7-838a-8e09f0190a1e@45.136.254.82:23131?type=tcp&encryption=none&security=none#Myanmar-sz26turi
@@ -571,34 +724,34 @@ vless://fea66ad9-3671-44f7-a5d0-9514325d29d6@45.136.254.87:53454?type=tcp&encryp
 # kindvpn - Myanmar All Sim Wifi (3)
 vless://bbb60bf9-628d-473e-8f28-a989bb7ed87d@kind901.knlvpn.com:56837?type=tcp&encryption=none&security=none#Myanmar-x7q16ikh
 
-# ohm - Z-AIS01(สำหรับเล่นเกมส์)
+# ohm - Z-AIS01-เล่นเกมส์ได้(100Mbps)
 vless://d1293b3f-f382-49e1-ab0a-9418f027e7d2@116.204.181.209:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais1-play
 
-# ohm - Z-AIS02(สำหรับเล่นเกมส์)
+# ohm - Z-AIS02-เล่นเกมส์ได้(100Mbps)
 vless://984804d2-8205-42f4-998f-c50327c79e7e@116.204.183.68:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais2-play
 
-# ohm - Z-AIS03(สำหรับเล่นเกมส์)
+# ohm - Z-AIS03-เล่นเกมส์ได้(100Mbps)
 vless://d61ca806-f952-4178-9d55-d5743910ceb5@103.234.236.119:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais3-play
 
-# ohm - Z-AIS04(สำหรับเล่นเกมส์)
+# ohm - Z-AIS04-เล่นเกมส์ได้(100Mbps)
 vless://2be6c892-8807-49bd-ad4f-2879181461b3@103.234.236.146:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais4-play
 
-# ohm - Z-AIS05(สำหรับเล่นเกมส์)
+# ohm - Z-AIS05-เล่นเกมส์ได้(100Mbps)
 vless://775f1320-053e-4dc8-b4d1-221453cdcbff@103.234.236.147:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais5-play
 
-# ohm - Z-AIS06(MaxSpeed100+Mbps)
+# ohm - Z-AIS06-เล่นเกมส์ได้(100Mbps)
 vless://ac3b2493-2214-4b09-bd7e-9c33318080ea@v6.ohm1.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais6-ais
 
-# ohm - Z-AIS07(MaxSpeed100+Mbps)
+# ohm - Z-AIS07-เล่นเกมส์ได้(100Mbps)
 vless://485977cc-b331-4b9e-83ea-8c9f0c23504e@v7.ohm1.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais7-ais
 
-# ohm - Z-AIS08(MaxSpeed100+Mbps)
+# ohm - Z-AIS08-เล่นเกมส์ได้(100Mbps)
 vless://957f628a-47bb-419a-8e9d-8ef19c76023b@v8.ohm1.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais8-ais
 
-# ohm - Z-AIS09(MaxSpeed100+Mbps)
+# ohm - Z-AIS09-เล่นเกมส์ได้(100Mbps)
 vless://dacd94ba-c637-4a2b-a660-edef66fdf2db@v9.ohm1.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais9-ais
 
-# ohm - Z-AIS10(MaxSpeed100+Mbps)
+# ohm - Z-AIS10-เล่นเกมส์ได้(100Mbps)
 vless://1e65e48b-1717-4528-91f3-ca20cb1d5656@v10.ohm1.online:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais10-ais
 
 # svpn - US 1

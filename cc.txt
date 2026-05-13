@@ -1,44 +1,8 @@
-# 9tail - ⭐️1.AIS + กันรั่ว 7 🟢
-vless://9fe92bae-c0bb-4b69-9d8c-8935767853ad@rd-v-4.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http
+# 9tail - ⭐️1.AIS + กันรั่ว AUTO 🟢
+vless://a7b603ce-3264-4b09-8907-f801da21f6d7@lb-v2ray.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http
 
-# 9tail - ⭐️2.AIS + กันรั่ว 2 🟢
-vless://e870fa8c-e462-45c5-8ace-eadf292c3eda@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http
-
-# 9tail - ⭐️3.AIS + กันรั่ว 3 🟢
-vless://49da1cee-2e3a-465d-b546-3be8d63467da@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http
-
-# 9tail - ⭐️4.AIS + กันรั่ว 1 🟢
-vless://b6053ce9-b5ed-4490-8061-fe975ef97bd4@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http
-
-# 9tail - ⭐️5.AIS + กันรั่ว 5 🟢
-vless://bbbf0b0d-79e6-469f-8f93-a49c0b0b1644@rd-v-2.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http
-
-# 9tail - ⭐️6.AIS + กันรั่ว 6 🟢
-vless://94aae68c-de03-47f8-b8ce-e82a4d4b777e@rd-v-3.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http
-
-# 9tail - ⭐️7.AIS + กันรั่ว 4 🟢
-vless://108c3f21-428a-4a42-8776-1e817937ad01@rd-v-1.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http
-
-# 9tail - 📝 TRUE VZOOM เรียนฟรี 1 🎥
-vless://af0eb70f-efa9-45ac-8b7d-94bc9736ade6@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=www.opensignal.com.readyidc-4.misterpnut.uk&path=%2Fray
-
-# 9tail - 📝 TRUE VZOOM เรียนฟรี 2 🎥
-vless://af0eb70f-efa9-45ac-8b7d-94bc9736ade6@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=www.opensignal.com.true-16.misternut.uk&path=%2Fray
-
-# 9tail - 📝 TRUE VZOOM เรียนฟรี 3 🎥
-vless://af0eb70f-efa9-45ac-8b7d-94bc9736ade6@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=www.opensignal.com.true-8.misternut.uk&path=%2Fray
-
-# 9tail - 📝 TRUE VZOOM เรียนฟรี 4 🎥
-vless://af0eb70f-efa9-45ac-8b7d-94bc9736ade6@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=rd-v-1.misternut.uk&path=%2Fray
-
-# 9tail - 📝 TRUE VZOOM เรียนฟรี 5 🎥
-vless://af0eb70f-efa9-45ac-8b7d-94bc9736ade6@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=rd-v-2.misternut.uk&path=%2Fray
-
-# 9tail - 📝 TRUE VZOOM เรียนฟรี 6 🎥
-vless://af0eb70f-efa9-45ac-8b7d-94bc9736ade6@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=rd-v-3.misternut.uk&path=%2Fray
-
-# 9tail - 📝 TRUE VZOOM เรียนฟรี 7 🎥
-vless://af0eb70f-efa9-45ac-8b7d-94bc9736ade6@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=rd-v-4.misternut.uk&path=%2Fray
+# 9tail - 📝 TRUE VZOOM เรียนฟรี AUTO 🎥
+vless://37026b1c-06f1-47bc-951c-61c4452930c2@gowhiteboard-static.zoom.us:80/?type=ws&encryption=none&host=lb-v2ray.misternut.uk&path=%2Fray
 
 # khamvpn270@ - 🟥TRUE-VDO-V2RAY-01 🎮သီးသန့်
 vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImQwMS5kbnN0dC5zaXRlIiwiaWQiOiJjMmExN2M0NS1iYzA0LTRjODQtZjFjNS1iOTU3Y2ZhNGEzNDEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJBZG1pbi10cnVlMDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
